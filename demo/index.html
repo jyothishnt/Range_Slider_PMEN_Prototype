@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<meta charset="utf-8">
+	<title>PMEN Clones</title>
+
+	<link rel="stylesheet" id="themeCSS" href="../css/iThing.css">
+	<link rel="stylesheet" href="style.css">
+	
+	<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+	<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
+	<script src="../lib/jquery.mousewheel.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+  <script src="StyledMarker.js"></script>
+  <script src="chroma.min.js"></script>
+	
+	
+	
+	<script src="../jQAllRangeSliders-min.js"></script>
+	
+
+	<script src="sliderDemo.js"></script>
+	<script src="dateSliderDemo.js"></script>
+	<script src="editSliderDemo.js"></script>
+	<script src="demo.js"></script>
+
+  </head>
+  <body>
+  	<div id="container">
+	  	<div class="box draggable">
+	  		<h3>PMEN - Worldwide spread of clones</h3>
+
+	  		PMEN Designation <select id="designation_selection"></select><br>
+	  		View type: 
+	  		<input id="type1" name="type" type="radio" value="serotype" checked>
+	  		<label for="type1">Serotype</label>
+	  		<input id="type2" name="type" type="radio" value="seq_type">
+	  		<label for="type2">Sequence Type</label>
+	  	</div>
+	    <div id="map-canvas"> Loading... </div>
+	  </div>
+    <div id="slider_container"></div>
+
+
+	</body>
+</html>
