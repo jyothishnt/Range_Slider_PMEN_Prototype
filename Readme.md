@@ -1,4 +1,9 @@
-jQRangeSlider, jQDateRangeSlider & jQEditRangeSlider [![Build Status](https://travis-ci.org/ghusse/jQRangeSlider.png?branch=master)](https://travis-ci.org/ghusse/jQRangeSlider)
+A prototype of linking Google Maps API with jQRangeSlider
+
+The demo currently shows PMEN world wide spread of clones.
+
+
+About jQRangeSlider
 ====================================================
 A javascript slider selector that supports dates and touch devices
 
