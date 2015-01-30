@@ -188,13 +188,14 @@ var createAllColorMapByType = function(data,_types) {
 	}
 	return colormap;
 }
+
+var info_window_opened;
 var getMarkers = function(map, data, _type) {
 
 	var all_markers = new Array;
 	var color_index = 0;
 	for(var i=0; i<data.length;i++) {
-		var loc = data[i].coordinates.split(','); 
-		var latlng = new google.maps.LatLng(loc[0], loc[1]);
+		var latlng = new google.maps.LatLng(data[i].latitude, data[i].longitude);
 		// console.log(latlng)
 
 		// var marker = new google.maps.Marker({
@@ -225,7 +226,7 @@ var getMarkers = function(map, data, _type) {
 
 		// var html = "<div style='width: 120px; text-align: left; color: grey;'><b>"+ data[i].country + " : <span style='color:brown;'>" + count + "</span></b></div>";
 
-		var html = "<div style='overflow:auto;max-width:400px;white-space:nowrap;font-weight:bold;'>";
+		var html = "<div id='infowindow_" + i + "'' style='max-width:400px;font-weight:normal;'>";
 		html += "<h3>" + data[i].country + "</h3><table>";
 		if(data[i].parent_clone != "")
 			html += "<tr><td><span style='color: #666;'>Parent Clone: </span></td><td><span style='color:brown;'>" + data[i].parent_clone + "</span></td></tr>";
@@ -254,6 +255,7 @@ var getMarkers = function(map, data, _type) {
             return function() {
                 infowindow.setContent(html);
                 infowindow.open(map, marker);
+                info_window_opened = infowindow;
             }
         })(marker, html));
         marker['date'] = data[i].date_first_isolated;
@@ -265,6 +267,7 @@ var getMarkers = function(map, data, _type) {
 
 // Sets the map on all markers in the array.
 function setMarkers(markers, date_min, date_max) {
+	if(info_window_opened) info_window_opened.close();
 	for (var i = 0,c=0,d=0; i < markers.length; i++) {
 		if(date_min <= markers[i].date && markers[i].date <= date_max) {
    			markers[i].setVisible(true);c++;

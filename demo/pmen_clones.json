@@ -7,9 +7,11 @@
     "seq_type":"81",
     "continent":"Europe",
     "country":"Barcelona, Spain",
-    "coordinates":"41.3850639,2.1734035",
+    "latitude":41.3850639,
+    "longitude":2.1734035,
     "reference":"Antimicrob Ag Chemother, 1985 28 357-359, doi: 10.1128/AAC.28.2.357, mlst",
-    "atcc_number":"700669"
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -19,9 +21,11 @@
     "seq_type":"81",
     "continent":"Europe",
     "country":"France",
-    "coordinates":"46.227638,2.213749",
+    "latitude":46.227638,
+    "longitude":2.213749,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -31,9 +35,11 @@
     "seq_type":"81",
     "continent":"Europe",
     "country":"Finland",
-    "coordinates":"61.92411,25.748151",
+    "latitude":61.92411,
+    "longitude":25.748151,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -43,9 +49,11 @@
     "seq_type":"81",
     "continent":"Europe",
     "country":"Portugal",
-    "coordinates":"39.399872,-8.224454",
+    "latitude":39.399872,
+    "longitude":-8.224454,
     "reference":"J Infect Dis, 2000, 182: 1153-1160, mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -55,9 +63,11 @@
     "seq_type":"81",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -67,9 +77,11 @@
     "seq_type":"81",
     "continent":"Europe",
     "country":"Poland",
-    "coordinates":"51.919438,19.145136",
+    "latitude":51.919438,
+    "longitude":19.145136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -79,9 +91,11 @@
     "seq_type":"",
     "continent":"Europe",
     "country":"Bulgaria",
-    "coordinates":"42.733883,25.48583",
+    "latitude":42.733883,
+    "longitude":25.48583,
     "reference":"J clin microbiol. 1999, 37: 638-48",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -91,9 +105,11 @@
     "seq_type":"81",
     "continent":"Europe",
     "country":"Greece",
-    "coordinates":"39.074208,21.824312",
+    "latitude":39.074208,
+    "longitude":21.824312,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -103,9 +119,11 @@
     "seq_type":"",
     "continent":"Europe",
     "country":"The Netherlands",
-    "coordinates":"52.132633,5.291266",
+    "latitude":52.132633,
+    "longitude":5.291266,
     "reference":"J Infect Dis 1997, 175:1413-9",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -115,9 +133,11 @@
     "seq_type":"81",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -127,9 +147,11 @@
     "seq_type":"81",
     "continent":"Europe",
     "country":"Hungary",
-    "coordinates":"47.162494,19.503304",
+    "latitude":47.162494,
+    "longitude":19.503304,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -139,9 +161,11 @@
     "seq_type":"",
     "continent":"Europe",
     "country":"Croatia",
-    "coordinates":"45.1,15.2",
+    "latitude":45.1,
+    "longitude":15.2,
     "reference":"Microb. Drug Resist. 1995, 1:169-76",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -151,9 +175,11 @@
     "seq_type":"",
     "continent":"Europe",
     "country":"Belgium",
-    "coordinates":"50.503887,4.469936",
+    "latitude":50.503887,
+    "longitude":4.469936,
     "reference":"Eur. J. Microbiol. 1991, 18:120-5",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -163,9 +189,11 @@
     "seq_type":"81",
     "continent":"Europe",
     "country":"Czech Republic",
-    "coordinates":"49.817492,15.472962",
+    "latitude":49.817492,
+    "longitude":15.472962,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -175,9 +203,11 @@
     "seq_type":"81",
     "continent":"Europe",
     "country":"UK",
-    "coordinates":"55.378051,-3.435973",
+    "latitude":55.378051,
+    "longitude":-3.435973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -187,9 +217,11 @@
     "seq_type":"",
     "continent":"Europe",
     "country":"N. Ireland",
-    "coordinates":"53.41291,-8.24389",
+    "latitude":53.41291,
+    "longitude":-8.24389,
     "reference":"J. Antimicrob. Chemother. 2002, 49:173-6",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -199,9 +231,11 @@
     "seq_type":"81",
     "continent":"Europe",
     "country":"Russia",
-    "coordinates":"61.52401,105.318756",
+    "latitude":61.52401,
+    "longitude":105.318756,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -211,9 +245,11 @@
     "seq_type":"81",
     "continent":"Europe",
     "country":"Iceland",
-    "coordinates":"64.963051,-19.020835",
+    "latitude":64.963051,
+    "longitude":-19.020835,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -223,9 +259,11 @@
     "seq_type":"81",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -235,9 +273,11 @@
     "seq_type":"",
     "continent":"North America",
     "country":"Canada",
-    "coordinates":"56.130366,-106.346771",
+    "latitude":56.130366,
+    "longitude":-106.346771,
     "reference":"J. Infect. Dis. 1999, 179: 892-900",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -247,9 +287,11 @@
     "seq_type":"",
     "continent":"South America",
     "country":"Colombia",
-    "coordinates":"4.570868,-74.297333",
+    "latitude":4.570868,
+    "longitude":-74.297333,
     "reference":"Microb. Drug Resist. 1998, 4:233-239",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -259,9 +301,11 @@
     "seq_type":"",
     "continent":"South America",
     "country":"Argentina",
-    "coordinates":"-38.416097,-63.616672",
+    "latitude":-38.416097,
+    "longitude":-63.616672,
     "reference":"Microb. Drug Resist. 1998, 4:225-231",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -271,9 +315,11 @@
     "seq_type":"",
     "continent":"South America",
     "country":"Chile",
-    "coordinates":"-35.675147,-71.542969",
+    "latitude":-35.675147,
+    "longitude":-71.542969,
     "reference":"J. Clin. Microbiol. 1999, 37:3725-3730",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -283,9 +329,11 @@
     "seq_type":"",
     "continent":"South America",
     "country":"Mexico",
-    "coordinates":"23.634501,-102.552784",
+    "latitude":23.634501,
+    "longitude":-102.552784,
     "reference":"Personal communication reported in  Microb. Drug Resist. 1998, 4:241-6",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -295,9 +343,11 @@
     "seq_type":"",
     "continent":"South America",
     "country":"Uruguay",
-    "coordinates":"-32.522779,-55.765835",
+    "latitude":-32.522779,
+    "longitude":-55.765835,
     "reference":"Microb. Drug Resist. 1998, 4:219-224",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -307,9 +357,11 @@
     "seq_type":"81",
     "continent":"South America",
     "country":"Venezuela",
-    "coordinates":"6.42375,-66.58973",
+    "latitude":6.42375,
+    "longitude":-66.58973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -319,9 +371,11 @@
     "seq_type":"",
     "continent":"South America",
     "country":"Brazil",
-    "coordinates":"-14.235004,-51.92528",
+    "latitude":-14.235004,
+    "longitude":-51.92528,
     "reference":"J. Antimicrob. Chemother. 2000, 46: 757-65 doi: 10.1093/jac/46.5.757",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -331,9 +385,11 @@
     "seq_type":"81",
     "continent":"Asia",
     "country":"Tiawan",
-    "coordinates":"23.69781,120.960515",
+    "latitude":23.69781,
+    "longitude":120.960515,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -343,9 +399,11 @@
     "seq_type":"81",
     "continent":"Asia",
     "country":"Oman",
-    "coordinates":"21.512583,55.923255",
+    "latitude":21.512583,
+    "longitude":55.923255,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -355,9 +413,11 @@
     "seq_type":"81",
     "continent":"Asia",
     "country":"Qatar",
-    "coordinates":"25.354826,51.183884",
+    "latitude":25.354826,
+    "longitude":51.183884,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -367,9 +427,11 @@
     "seq_type":"81",
     "continent":"Asia",
     "country":"S. Korea",
-    "coordinates":"35.907757,127.766922",
+    "latitude":35.907757,
+    "longitude":127.766922,
     "reference":"Microb. Drug Resist. 1997, 3, 253-7",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -379,9 +441,11 @@
     "seq_type":"81",
     "continent":"Asia",
     "country":"China",
-    "coordinates":"35.86166,104.195397",
+    "latitude":35.86166,
+    "longitude":104.195397,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -391,9 +455,11 @@
     "seq_type":"81",
     "continent":"Asia",
     "country":"Thailand",
-    "coordinates":"15.870032,100.992541",
+    "latitude":15.870032,
+    "longitude":100.992541,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -403,9 +469,11 @@
     "seq_type":"81",
     "continent":"Asia",
     "country":"Hong Kong",
-    "coordinates":"22.396428,114.109497",
+    "latitude":22.396428,
+    "longitude":114.109497,
     "reference":" J. Clin. Microbiol. 1999, 37: 2834-9, mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -415,9 +483,11 @@
     "seq_type":"81",
     "continent":"Asia",
     "country":"Japan",
-    "coordinates":"36.204824,138.252924",
+    "latitude":36.204824,
+    "longitude":138.252924,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -427,9 +497,11 @@
     "seq_type":"81",
     "continent":"Asia",
     "country":"Singapore",
-    "coordinates":"1.352083,103.819836",
+    "latitude":1.352083,
+    "longitude":103.819836,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -439,9 +511,11 @@
     "seq_type":"81",
     "continent":"Asia",
     "country":"Malaysia",
-    "coordinates":"4.210484,101.975766",
+    "latitude":4.210484,
+    "longitude":101.975766,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -451,9 +525,11 @@
     "seq_type":"81",
     "continent":"Asia",
     "country":"India",
-    "coordinates":"20.593684,78.96288",
+    "latitude":20.593684,
+    "longitude":78.96288,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -463,9 +539,11 @@
     "seq_type":"",
     "continent":"Asia",
     "country":"Sri Lanka",
-    "coordinates":"7.873054,80.771797",
+    "latitude":7.873054,
+    "longitude":80.771797,
     "reference":"Clin. Infect. Dis. 2001, 32:1463-69",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -475,9 +553,11 @@
     "seq_type":"81",
     "continent":"Asia",
     "country":"Vietnam",
-    "coordinates":"14.058324,108.277199",
+    "latitude":14.058324,
+    "longitude":108.277199,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -487,9 +567,11 @@
     "seq_type":"81",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -499,9 +581,11 @@
     "seq_type":"81",
     "continent":"Africa",
     "country":"Egypt",
-    "coordinates":"26.820553,30.802498",
+    "latitude":26.820553,
+    "longitude":30.802498,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":1,
@@ -511,9 +595,11 @@
     "seq_type":"81",
     "continent":"Ausralasia",
     "country":"Australia",
-    "coordinates":"-25.274398,133.775136",
+    "latitude":-25.274398,
+    "longitude":133.775136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700669",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -523,9 +609,11 @@
     "seq_type":"90",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":"700670"
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -535,9 +623,11 @@
     "seq_type":"90",
     "continent":"Europe",
     "country":"France",
-    "coordinates":"46.227638,2.213749",
+    "latitude":46.227638,
+    "longitude":2.213749,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -547,9 +637,11 @@
     "seq_type":"90",
     "continent":"Europe",
     "country":"The Netherlands",
-    "coordinates":"52.132633,5.291266",
+    "latitude":52.132633,
+    "longitude":5.291266,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -559,9 +651,11 @@
     "seq_type":"90",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -571,9 +665,11 @@
     "seq_type":"90",
     "continent":"Europe",
     "country":"Iceland",
-    "coordinates":"64.963051,-19.020835",
+    "latitude":64.963051,
+    "longitude":-19.020835,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -583,9 +679,11 @@
     "seq_type":"90",
     "continent":"Europe",
     "country":"Portugal",
-    "coordinates":"39.399872,-8.224454",
+    "latitude":39.399872,
+    "longitude":-8.224454,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -595,9 +693,11 @@
     "seq_type":"90",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -607,9 +707,11 @@
     "seq_type":"90",
     "continent":"Europe",
     "country":"Poland",
-    "coordinates":"51.919438,19.145136",
+    "latitude":51.919438,
+    "longitude":19.145136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -619,9 +721,11 @@
     "seq_type":"90",
     "continent":"Europe",
     "country":"Finland",
-    "coordinates":"61.92411,25.748151",
+    "latitude":61.92411,
+    "longitude":25.748151,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -631,9 +735,11 @@
     "seq_type":"90",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -643,9 +749,11 @@
     "seq_type":"",
     "continent":"South America",
     "country":"Colombia",
-    "coordinates":"4.570868,-74.297333",
+    "latitude":4.570868,
+    "longitude":-74.297333,
     "reference":"Microb. Drug Resist. 2001, 7:153-64",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -655,9 +763,11 @@
     "seq_type":"",
     "continent":"South America",
     "country":"Chile",
-    "coordinates":"-35.675147,-71.542969",
+    "latitude":-35.675147,
+    "longitude":-71.542969,
     "reference":"J. Clin. Microbiol. 1999, 37:3725-30",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -667,9 +777,11 @@
     "seq_type":"90",
     "continent":"South America",
     "country":"Venezuela",
-    "coordinates":"6.42375,-66.58973",
+    "latitude":6.42375,
+    "longitude":-66.58973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -679,9 +791,11 @@
     "seq_type":"",
     "continent":"South America",
     "country":"Brazil",
-    "coordinates":"-14.235004,-51.92528",
+    "latitude":-14.235004,
+    "longitude":-51.92528,
     "reference":"J. Antimicrob. Chemother. 2000, 46: 757-65 doi: 10.1093/jac/46.5.757",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -691,9 +805,11 @@
     "seq_type":"90",
     "continent":"Asia",
     "country":"Taiwan",
-    "coordinates":"23.69781,120.960515",
+    "latitude":23.69781,
+    "longitude":120.960515,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -703,9 +819,11 @@
     "seq_type":"90",
     "continent":"Asia",
     "country":"Oman",
-    "coordinates":"21.512583,55.923255",
+    "latitude":21.512583,
+    "longitude":55.923255,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -715,9 +833,11 @@
     "seq_type":"90",
     "continent":"Asia",
     "country":"Hong Kong",
-    "coordinates":"22.396428,114.109497",
+    "latitude":22.396428,
+    "longitude":114.109497,
     "reference":"J. Clin. Microbiol. 2002, 40: 1522-5, mlst",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -727,9 +847,11 @@
     "seq_type":"90",
     "continent":"Asia",
     "country":"Korea",
-    "coordinates":"35.907757,127.766922",
+    "latitude":35.907757,
+    "longitude":127.766922,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -739,9 +861,11 @@
     "seq_type":"90",
     "continent":"Asia",
     "country":"Japan",
-    "coordinates":"36.204824,138.252924",
+    "latitude":36.204824,
+    "longitude":138.252924,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -751,9 +875,11 @@
     "seq_type":"90",
     "continent":"Asia",
     "country":"China",
-    "coordinates":"35.86166,104.195397",
+    "latitude":35.86166,
+    "longitude":104.195397,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":2,
@@ -763,441 +889,515 @@
     "seq_type":"90",
     "continent":"Australasia",
     "country":"Australia",
-    "coordinates":"-25.274398,133.775136",
+    "latitude":-25.274398,
+    "longitude":133.775136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700670",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"19A",
     "date_first_isolated":"1995",
     "seq_type":"156",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":"700671"
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"9V",
     "date_first_isolated":"1993",
     "seq_type":"156",
     "continent":"Europe",
     "country":"France",
-    "coordinates":"46.227638,2.213749",
+    "latitude":46.227638,
+    "longitude":2.213749,
     "reference":"Microbiol. 1995, 141: 623-7, mlst",
-    "atcc_number":"700671"
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"9V/14",
     "date_first_isolated":"1996",
     "seq_type":"156",
     "continent":"Europe",
     "country":"Portugal",
-    "coordinates":"39.399872,-8.224454",
+    "latitude":39.399872,
+    "longitude":-8.224454,
     "reference":"J Infect Dis, 2000, 182: 1153-1160, mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"9V/14",
     "date_first_isolated":"2001",
     "seq_type":"156",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"9V",
     "date_first_isolated":"1994",
     "seq_type":"156",
     "continent":"Europe",
     "country":"Poland",
-    "coordinates":"51.919438,19.145136",
+    "latitude":51.919438,
+    "longitude":19.145136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"9",
     "date_first_isolated":"1991",
     "seq_type":"",
     "continent":"Europe",
     "country":"Bulgaria",
-    "coordinates":"42.733883,25.48583",
+    "latitude":42.733883,
+    "longitude":25.48583,
     "reference":"J clin microbiol. 1999, 37: 638-48",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"14",
     "date_first_isolated":"2003",
     "seq_type":"156",
     "continent":"Europe",
     "country":"Hungary",
-    "coordinates":"47.162494,19.503304",
+    "latitude":47.162494,
+    "longitude":19.503304,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"14/19F",
     "date_first_isolated":"1995-9§",
     "seq_type":"156",
     "continent":"Europe",
     "country":"Finland",
-    "coordinates":"61.92411,25.748151",
+    "latitude":61.92411,
+    "longitude":25.748151,
     "reference":"Infect. Immun. 2005, 73:431-5, mlst",
-    "atcc_number":"§ isolates collected between 1995-9"
+    "atcc_number":"700671",
+    "comments":"Isolates collected between 1995-9"
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"9V",
     "date_first_isolated":"1999",
     "seq_type":"156",
     "continent":"Europe",
     "country":"Iceland",
-    "coordinates":"64.963051,-19.020835",
+    "latitude":64.963051,
+    "longitude":-19.020835,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"19F",
     "date_first_isolated":"1997",
     "seq_type":"156",
     "continent":"Europe",
     "country":"Sweden",
-    "coordinates":"60.128161,18.643501",
+    "latitude":60.128161,
+    "longitude":18.643501,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"19F",
     "date_first_isolated":"1998",
     "seq_type":"",
     "continent":"Europe",
     "country":"Greece",
-    "coordinates":"39.074208,21.824312",
+    "latitude":39.074208,
+    "longitude":21.824312,
     "reference":"Microb. Drug Resist. 2002, 8:219-26",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"14",
     "date_first_isolated":"1998",
     "seq_type":"156",
     "continent":"Europe",
     "country":"Switzerland",
-    "coordinates":"46.818188,8.227512",
+    "latitude":46.818188,
+    "longitude":8.227512,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"14",
     "date_first_isolated":"1997",
     "seq_type":"156",
     "continent":"Europe",
     "country":"The Netherlands",
-    "coordinates":"52.132633,5.291266",
+    "latitude":52.132633,
+    "longitude":5.291266,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"14",
     "date_first_isolated":"2000",
     "seq_type":"156",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"14",
     "date_first_isolated":"1997",
     "seq_type":"156",
     "continent":"Europe",
     "country":"Denmark",
-    "coordinates":"56.26392,9.501785",
+    "latitude":56.26392,
+    "longitude":9.501785,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"9V",
     "date_first_isolated":"1997",
     "seq_type":"156",
     "continent":"Europe",
     "country":"Czech Republic",
-    "coordinates":"49.817492,15.472962",
+    "latitude":49.817492,
+    "longitude":15.472962,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"9V",
     "date_first_isolated":"1993",
     "seq_type":"156",
     "continent":"Europe",
     "country":"UK",
-    "coordinates":"55.378051,-3.435973",
+    "latitude":55.378051,
+    "longitude":-3.435973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"9V",
     "date_first_isolated":"1997",
     "seq_type":"",
     "continent":"Europe",
     "country":"N. Ireland",
-    "coordinates":"53.41291,-8.24389",
+    "latitude":53.41291,
+    "longitude":-8.24389,
     "reference":"J. Antimocrob. Chemother. 2002, 49:173-6",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"9V",
     "date_first_isolated":"1998",
     "seq_type":"156",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"9V",
     "date_first_isolated":"1996",
     "seq_type":"156",
     "continent":"North America",
     "country":"Canada",
-    "coordinates":"56.130366,-106.346771",
+    "latitude":56.130366,
+    "longitude":-106.346771,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"9V/14",
     "date_first_isolated":"1994",
     "seq_type":"",
     "continent":"South America",
     "country":"Colombia",
-    "coordinates":"4.570868,-74.297333",
+    "latitude":4.570868,
+    "longitude":-74.297333,
     "reference":"Microb. Drug Resist. 1998, 4:233-239",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"14/19F",
     "date_first_isolated":"1997",
     "seq_type":"",
     "continent":"South America",
     "country":"Argentina",
-    "coordinates":"-38.416097,-63.616672",
+    "latitude":-38.416097,
+    "longitude":-63.616672,
     "reference":"Microb. Drug Resist. 1998, 4:225-231",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"14",
     "date_first_isolated":"1994",
     "seq_type":"",
     "continent":"South America",
     "country":"Chile",
-    "coordinates":"-35.675147,-71.542969",
+    "latitude":-35.675147,
+    "longitude":-71.542969,
     "reference":"J. Clin. Microbiol. 1999, 37:3725-30",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"14",
     "date_first_isolated":"2007",
     "seq_type":"156",
     "continent":"South America",
     "country":"Venezuela",
-    "coordinates":"6.42375,-66.58973",
+    "latitude":6.42375,
+    "longitude":-66.58973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"9,14",
     "date_first_isolated":"1993/5*",
     "seq_type":"",
     "continent":"South America",
     "country":"Mexico",
-    "coordinates":"23.634501,-102.552784",
+    "latitude":23.634501,
+    "longitude":-102.552784,
     "reference":"Microb. Drug Resist. 1998, 4:241-6",
-    "atcc_number":"*isolates collected during the period 1993-5. No date given for individual isolates, so can't give date for Clone 3 isolates."
+    "atcc_number":"700671",
+    "comments":"Isolates collected during the period 1993-5. No date given for individual isolates, so can't give date for Clone 3 isolates."
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"14",
     "date_first_isolated":"1994",
     "seq_type":"156",
     "continent":"South America",
     "country":"Uruguay",
-    "coordinates":"-32.522779,-55.765835",
+    "latitude":-32.522779,
+    "longitude":-55.765835,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"14",
     "date_first_isolated":"2001",
     "seq_type":"156",
     "continent":"South America",
     "country":"Brazil",
-    "coordinates":"-14.235004,-51.92528",
+    "latitude":-14.235004,
+    "longitude":-51.92528,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"9V",
     "date_first_isolated":"1997",
     "seq_type":"",
     "continent":"Asia",
     "country":"Taiwan",
-    "coordinates":"23.69781,120.960515",
+    "latitude":23.69781,
+    "longitude":120.960515,
     "reference":"J. Clin. Microbiol. 1998, 36:3514-9",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"11A",
     "date_first_isolated":"2000",
     "seq_type":"156",
     "continent":"Asia",
     "country":"Israel",
-    "coordinates":"31.046051,34.851612",
+    "latitude":31.046051,
+    "longitude":34.851612,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"9A",
     "date_first_isolated":"2005",
     "seq_type":"156",
     "continent":"Asia",
     "country":"Qatar",
-    "coordinates":"25.354826,51.183884",
+    "latitude":25.354826,
+    "longitude":51.183884,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"9A/14/11A",
     "date_first_isolated":"2006",
     "seq_type":"156",
     "continent":"Asia",
     "country":"Lebannon",
-    "coordinates":"33.854721,35.862285",
+    "latitude":33.854721,
+    "longitude":35.862285,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"19A",
     "date_first_isolated":"2011",
     "seq_type":"156",
     "continent":"Asia",
     "country":"Japan",
-    "coordinates":"36.204824,138.252924",
+    "latitude":36.204824,
+    "longitude":138.252924,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
-    "serotype":"9V (I think)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
+    "serotype":"9V",
     "date_first_isolated":"",
     "seq_type":"",
     "continent":"Asia",
     "country":"Korea",
-    "coordinates":"35.907757,127.766922",
+    "latitude":35.907757,
+    "longitude":127.766922,
     "reference":"Microb. Drug Resist. 1997, 3, 253-7",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"9V",
     "date_first_isolated":"2006",
     "seq_type":"156",
     "continent":"Asia",
     "country":"Syria",
-    "coordinates":"34.802075,38.996815",
+    "latitude":34.802075,
+    "longitude":38.996815,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"9V",
     "date_first_isolated":"2008",
     "seq_type":"156",
     "continent":"Asia",
     "country":"Thailand",
-    "coordinates":"15.870032,100.992541",
+    "latitude":15.870032,
+    "longitude":100.992541,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":3,
-    "parent_clone":"France 9V-3 (previously Spain 9V-3)",
+    "parent_clone":"France 9V-3 previously Spain 9V-3)",
     "serotype":"9V",
     "date_first_isolated":"2007",
     "seq_type":"156",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700671",
+    "comments":""
   },
   {
     "pmen_designation":4,
@@ -1207,9 +1407,11 @@
     "seq_type":"37",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":"51916"
+    "atcc_number":"51916",
+    "comments":""
   },
   {
     "pmen_designation":4,
@@ -1219,9 +1421,11 @@
     "seq_type":"37",
     "continent":"Europe",
     "country":"Denmark",
-    "coordinates":"56.26392,9.501785",
+    "latitude":56.26392,
+    "longitude":9.501785,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"51916",
+    "comments":""
   },
   {
     "pmen_designation":4,
@@ -1231,9 +1435,11 @@
     "seq_type":"37",
     "continent":"Europe",
     "country":"Finland",
-    "coordinates":"61.92411,25.748151",
+    "latitude":61.92411,
+    "longitude":25.748151,
     "reference":"Infect. Immun. 2005, 73:431-5, mlst",
-    "atcc_number":""
+    "atcc_number":"51916",
+    "comments":""
   },
   {
     "pmen_designation":4,
@@ -1243,9 +1449,11 @@
     "seq_type":"37",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":"51916"
+    "atcc_number":"51916",
+    "comments":""
   },
   {
     "pmen_designation":5,
@@ -1255,9 +1463,11 @@
     "seq_type":"18",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":"700902"
+    "atcc_number":"700902",
+    "comments":""
   },
   {
     "pmen_designation":6,
@@ -1267,9 +1477,11 @@
     "seq_type":"268",
     "continent":"Europe",
     "country":"Hungary",
-    "coordinates":"47.162494,19.503304",
+    "latitude":47.162494,
+    "longitude":19.503304,
     "reference":"Microb. Drug Resist. 1996 2:177-8, mlst",
-    "atcc_number":"700673"
+    "atcc_number":"700673",
+    "comments":""
   },
   {
     "pmen_designation":6,
@@ -1279,9 +1491,11 @@
     "seq_type":"",
     "continent":"Europe",
     "country":"Czech Republic/Slovakia",
-    "coordinates":"48.1410131,17.1070062",
+    "latitude":48.1410131,
+    "longitude":17.1070062,
     "reference":"Microb. Drug Resist. 1995 1:71-8",
-    "atcc_number":""
+    "atcc_number":"700673",
+    "comments":""
   },
   {
     "pmen_designation":7,
@@ -1291,9 +1505,11 @@
     "seq_type":"75",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"Microb. Drug Resist. 1997, 3: 385-9, mlst",
-    "atcc_number":"700674"
+    "atcc_number":"700674",
+    "comments":""
   },
   {
     "pmen_designation":8,
@@ -1303,9 +1519,11 @@
     "seq_type":"185",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"Microb. Drug Resist. 1997, 3: 385-9, mlst",
-    "atcc_number":"700675"
+    "atcc_number":"700675",
+    "comments":""
   },
   {
     "pmen_designation":8,
@@ -1315,9 +1533,11 @@
     "seq_type":"185",
     "continent":"Australasia",
     "country":"Australia",
-    "coordinates":"-25.274398,133.775136",
+    "latitude":-25.274398,
+    "longitude":133.775136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700675",
+    "comments":""
   },
   {
     "pmen_designation":9,
@@ -1327,9 +1547,11 @@
     "seq_type":"9",
     "continent":"Europe",
     "country":"UK",
-    "coordinates":"55.378051,-3.435973",
+    "latitude":55.378051,
+    "longitude":-3.435973,
     "reference":"mlst",
-    "atcc_number":"700676"
+    "atcc_number":"700676",
+    "comments":""
   },
   {
     "pmen_designation":9,
@@ -1339,9 +1561,11 @@
     "seq_type":"9",
     "continent":"Europe",
     "country":"Belgium",
-    "coordinates":"50.503887,4.469936",
+    "latitude":50.503887,
+    "longitude":4.469936,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700676",
+    "comments":""
   },
   {
     "pmen_designation":9,
@@ -1351,9 +1575,11 @@
     "seq_type":"9",
     "continent":"Europe",
     "country":"Portugal",
-    "coordinates":"39.399872,-8.224454",
+    "latitude":39.399872,
+    "longitude":-8.224454,
     "reference":"J Infect Dis, 2000, 182: 1153-1160, mlst",
-    "atcc_number":""
+    "atcc_number":"700676",
+    "comments":""
   },
   {
     "pmen_designation":9,
@@ -1363,9 +1589,11 @@
     "seq_type":"9",
     "continent":"Europe",
     "country":"Poland",
-    "coordinates":"51.919438,19.145136",
+    "latitude":51.919438,
+    "longitude":19.145136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700676",
+    "comments":""
   },
   {
     "pmen_designation":9,
@@ -1375,9 +1603,11 @@
     "seq_type":"9",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700676",
+    "comments":""
   },
   {
     "pmen_designation":9,
@@ -1387,9 +1617,11 @@
     "seq_type":"",
     "continent":"Europe",
     "country":"Greece",
-    "coordinates":"39.074208,21.824312",
+    "latitude":39.074208,
+    "longitude":21.824312,
     "reference":"Mircob. Drug Resist. 2002, 8:219-26",
-    "atcc_number":""
+    "atcc_number":"700676",
+    "comments":""
   },
   {
     "pmen_designation":9,
@@ -1399,9 +1631,11 @@
     "seq_type":"9",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700676",
+    "comments":""
   },
   {
     "pmen_designation":9,
@@ -1411,9 +1645,11 @@
     "seq_type":"9",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700676",
+    "comments":""
   },
   {
     "pmen_designation":9,
@@ -1423,9 +1659,11 @@
     "seq_type":"9",
     "continent":"Europe",
     "country":"Sweden",
-    "coordinates":"60.128161,18.643501",
+    "latitude":60.128161,
+    "longitude":18.643501,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700676",
+    "comments":""
   },
   {
     "pmen_designation":9,
@@ -1435,9 +1673,11 @@
     "seq_type":"9",
     "continent":"Europe",
     "country":"Czech Republic",
-    "coordinates":"49.817492,15.472962",
+    "latitude":49.817492,
+    "longitude":15.472962,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700676",
+    "comments":""
   },
   {
     "pmen_designation":9,
@@ -1447,9 +1687,11 @@
     "seq_type":"9",
     "continent":"Europe",
     "country":"Switzerland",
-    "coordinates":"46.818188,8.227512",
+    "latitude":46.818188,
+    "longitude":8.227512,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700676",
+    "comments":""
   },
   {
     "pmen_designation":9,
@@ -1459,9 +1701,11 @@
     "seq_type":"9",
     "continent":"Europe",
     "country":"Hungary",
-    "coordinates":"47.162494,19.503304",
+    "latitude":47.162494,
+    "longitude":19.503304,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700676",
+    "comments":""
   },
   {
     "pmen_designation":9,
@@ -1471,9 +1715,11 @@
     "seq_type":"9",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700676",
+    "comments":""
   },
   {
     "pmen_designation":9,
@@ -1483,9 +1729,11 @@
     "seq_type":"",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"J. Infect Dis. 2000, 181:216-",
-    "atcc_number":""
+    "atcc_number":"700676",
+    "comments":""
   },
   {
     "pmen_designation":9,
@@ -1495,9 +1743,11 @@
     "seq_type":"9",
     "continent":"Australasia",
     "country":"Austraia",
-    "coordinates":"-25.274398,133.775136",
+    "latitude":-25.274398,
+    "longitude":133.775136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700676",
+    "comments":""
   },
   {
     "pmen_designation":9,
@@ -1507,9 +1757,11 @@
     "seq_type":"9",
     "continent":"Asia",
     "country":"Malaysia",
-    "coordinates":"4.210484,101.975766",
+    "latitude":4.210484,
+    "longitude":101.975766,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700676",
+    "comments":""
   },
   {
     "pmen_designation":9,
@@ -1519,9 +1771,11 @@
     "seq_type":"",
     "continent":"Asia",
     "country":"Hong Kong",
-    "coordinates":"22.396428,114.109497",
+    "latitude":22.396428,
+    "longitude":114.109497,
     "reference":"J. Clin. Microbiol. 2002, 40: 1522-5",
-    "atcc_number":""
+    "atcc_number":"700676",
+    "comments":""
   },
   {
     "pmen_designation":9,
@@ -1531,9 +1785,11 @@
     "seq_type":"9",
     "continent":"South America",
     "country":"Argentina",
-    "coordinates":"-38.416097,-63.616672",
+    "latitude":-38.416097,
+    "longitude":-63.616672,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700676",
+    "comments":""
   },
   {
     "pmen_designation":10,
@@ -1543,9 +1799,11 @@
     "seq_type":"20",
     "continent":"Europe",
     "country":"Czech R./Slovakia",
-    "coordinates":"48.3234066,18.04482",
+    "latitude":48.3234066,
+    "longitude":18.04482,
     "reference":"mlst, J. Infect. Dis. 1989, 159:16-25, mlst",
-    "atcc_number":"700677"
+    "atcc_number":"700677",
+    "comments":""
   },
   {
     "pmen_designation":10,
@@ -1555,9 +1813,11 @@
     "seq_type":"",
     "continent":"South America",
     "country":"Colombia",
-    "coordinates":"4.570868,-74.297333",
+    "latitude":4.570868,
+    "longitude":-74.297333,
     "reference":"Microb. Drug Resist. 2001, 7:153-64",
-    "atcc_number":""
+    "atcc_number":"700677",
+    "comments":""
   },
   {
     "pmen_designation":11,
@@ -1567,9 +1827,11 @@
     "seq_type":"175",
     "continent":"Europe",
     "country":"Slovakia",
-    "coordinates":"48.669026,19.699024",
+    "latitude":48.669026,
+    "longitude":19.699024,
     "reference":"mlst",
-    "atcc_number":"700678"
+    "atcc_number":"700678",
+    "comments":""
   },
   {
     "pmen_designation":12,
@@ -1579,9 +1841,11 @@
     "seq_type":"270",
     "continent":"Europe",
     "country":"Finland",
-    "coordinates":"61.92411,25.748151",
+    "latitude":61.92411,
+    "longitude":25.748151,
     "reference":"Infect. Immun. 1992, 60:4119-26, mlst",
-    "atcc_number":"700903"
+    "atcc_number":"700903",
+    "comments":""
   },
   {
     "pmen_designation":12,
@@ -1591,9 +1855,11 @@
     "seq_type":"",
     "continent":"Europe",
     "country":"Portugal",
-    "coordinates":"39.399872,-8.224454",
+    "latitude":39.399872,
+    "longitude":-8.224454,
     "reference":"J Infect Dis, 2000, 182: 1153-1160",
-    "atcc_number":""
+    "atcc_number":"700903",
+    "comments":""
   },
   {
     "pmen_designation":13,
@@ -1603,9 +1869,11 @@
     "seq_type":"41",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"mlst",
-    "atcc_number":"700904"
+    "atcc_number":"700904",
+    "comments":""
   },
   {
     "pmen_designation":13,
@@ -1615,9 +1883,11 @@
     "seq_type":"41",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700904",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1627,9 +1897,11 @@
     "seq_type":"236",
     "continent":"Asia",
     "country":"Taiwan",
-    "coordinates":"23.69781,120.960515",
+    "latitude":23.69781,
+    "longitude":120.960515,
     "reference":"mlst",
-    "atcc_number":"700905"
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1639,9 +1911,11 @@
     "seq_type":"",
     "continent":"Asia",
     "country":"Hong Kong",
-    "coordinates":"22.396428,114.109497",
+    "latitude":22.396428,
+    "longitude":114.109497,
     "reference":"J. Clin. Microbiol. 2002, 40: 1522-5",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1651,9 +1925,11 @@
     "seq_type":"236",
     "continent":"Asia",
     "country":"Vietnam",
-    "coordinates":"14.058324,108.277199",
+    "latitude":14.058324,
+    "longitude":108.277199,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1663,9 +1939,11 @@
     "seq_type":"236",
     "continent":"Asia",
     "country":"Thailand",
-    "coordinates":"15.870032,100.992541",
+    "latitude":15.870032,
+    "longitude":100.992541,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1675,9 +1953,11 @@
     "seq_type":"236",
     "continent":"Asia",
     "country":"China",
-    "coordinates":"35.86166,104.195397",
+    "latitude":35.86166,
+    "longitude":104.195397,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1687,9 +1967,11 @@
     "seq_type":"236",
     "continent":"Asia",
     "country":"India",
-    "coordinates":"20.593684,78.96288",
+    "latitude":20.593684,
+    "longitude":78.96288,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1699,9 +1981,11 @@
     "seq_type":"236",
     "continent":"Asia",
     "country":"Japan",
-    "coordinates":"36.204824,138.252924",
+    "latitude":36.204824,
+    "longitude":138.252924,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1711,9 +1995,11 @@
     "seq_type":"236",
     "continent":"Asia",
     "country":"Kingdom of Saudi Arabia",
-    "coordinates":"23.885942,45.079162",
+    "latitude":23.885942,
+    "longitude":45.079162,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1723,9 +2009,11 @@
     "seq_type":"236",
     "continent":"Asia",
     "country":"Korea",
-    "coordinates":"35.907757,127.766922",
+    "latitude":35.907757,
+    "longitude":127.766922,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1735,9 +2023,11 @@
     "seq_type":"236",
     "continent":"Asia",
     "country":"Malaysia",
-    "coordinates":"4.210484,101.975766",
+    "latitude":4.210484,
+    "longitude":101.975766,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1747,9 +2037,11 @@
     "seq_type":"236",
     "continent":"Asia",
     "country":"Sultanate of Oman",
-    "coordinates":"21.512583,55.923255",
+    "latitude":21.512583,
+    "longitude":55.923255,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1759,9 +2051,11 @@
     "seq_type":"",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"Antimicrob Ag. Chemother. 2001, 45:1595-8",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1771,9 +2065,11 @@
     "seq_type":"236",
     "continent":"Europe",
     "country":"UK",
-    "coordinates":"55.378051,-3.435973",
+    "latitude":55.378051,
+    "longitude":-3.435973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1783,9 +2079,11 @@
     "seq_type":"236",
     "continent":"Europe",
     "country":"Czech Republic",
-    "coordinates":"49.817492,15.472962",
+    "latitude":49.817492,
+    "longitude":15.472962,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1795,9 +2093,11 @@
     "seq_type":"236",
     "continent":"Europe",
     "country":"Finland",
-    "coordinates":"61.92411,25.748151",
+    "latitude":61.92411,
+    "longitude":25.748151,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1807,9 +2107,11 @@
     "seq_type":"236",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1819,9 +2121,11 @@
     "seq_type":"236",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1831,9 +2135,11 @@
     "seq_type":"236",
     "continent":"Europe",
     "country":"Greece",
-    "coordinates":"39.074208,21.824312",
+    "latitude":39.074208,
+    "longitude":21.824312,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1843,9 +2149,11 @@
     "seq_type":"236",
     "continent":"Europe",
     "country":"Poland",
-    "coordinates":"51.919438,19.145136",
+    "latitude":51.919438,
+    "longitude":19.145136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1855,9 +2163,11 @@
     "seq_type":"236",
     "continent":"Europe",
     "country":"Russia",
-    "coordinates":"61.52401,105.318756",
+    "latitude":61.52401,
+    "longitude":105.318756,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1867,9 +2177,11 @@
     "seq_type":"236",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":14,
@@ -1879,9 +2191,11 @@
     "seq_type":"236",
     "continent":"Australasia",
     "country":"Australia",
-    "coordinates":"-25.274398,133.775136",
+    "latitude":-25.274398,
+    "longitude":133.775136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700905",
+    "comments":""
   },
   {
     "pmen_designation":15,
@@ -1891,9 +2205,11 @@
     "seq_type":"242",
     "continent":"Asia",
     "country":"Taiwan",
-    "coordinates":"23.69781,120.960515",
+    "latitude":23.69781,
+    "longitude":120.960515,
     "reference":"mlst",
-    "atcc_number":"700906"
+    "atcc_number":"700906",
+    "comments":""
   },
   {
     "pmen_designation":15,
@@ -1903,9 +2219,11 @@
     "seq_type":"242",
     "continent":"Asia",
     "country":"China",
-    "coordinates":"35.86166,104.195397",
+    "latitude":35.86166,
+    "longitude":104.195397,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700906",
+    "comments":""
   },
   {
     "pmen_designation":15,
@@ -1915,9 +2233,11 @@
     "seq_type":"242",
     "continent":"Asia",
     "country":"Japan",
-    "coordinates":"36.204824,138.252924",
+    "latitude":36.204824,
+    "longitude":138.252924,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700906",
+    "comments":""
   },
   {
     "pmen_designation":15,
@@ -1927,9 +2247,11 @@
     "seq_type":"242",
     "continent":"Asia",
     "country":"Thailand",
-    "coordinates":"15.870032,100.992541",
+    "latitude":15.870032,
+    "longitude":100.992541,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700906",
+    "comments":""
   },
   {
     "pmen_designation":15,
@@ -1939,9 +2261,11 @@
     "seq_type":"242",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700906",
+    "comments":""
   },
   {
     "pmen_designation":15,
@@ -1951,9 +2275,11 @@
     "seq_type":"242",
     "continent":"Europe",
     "country":"Greece",
-    "coordinates":"39.074208,21.824312",
+    "latitude":39.074208,
+    "longitude":21.824312,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700906",
+    "comments":""
   },
   {
     "pmen_designation":15,
@@ -1963,9 +2289,11 @@
     "seq_type":"242",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700906",
+    "comments":""
   },
   {
     "pmen_designation":15,
@@ -1975,9 +2303,11 @@
     "seq_type":"242",
     "continent":"Europe",
     "country":"Norway",
-    "coordinates":"60.472024,8.468946",
+    "latitude":60.472024,
+    "longitude":8.468946,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700906",
+    "comments":""
   },
   {
     "pmen_designation":15,
@@ -1987,9 +2317,11 @@
     "seq_type":"242",
     "continent":"Europe",
     "country":"Poland",
-    "coordinates":"51.919438,19.145136",
+    "latitude":51.919438,
+    "longitude":19.145136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700906",
+    "comments":""
   },
   {
     "pmen_designation":15,
@@ -1999,9 +2331,11 @@
     "seq_type":"242",
     "continent":"Europe",
     "country":"Turkey",
-    "coordinates":"38.963745,35.243322",
+    "latitude":38.963745,
+    "longitude":35.243322,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700906",
+    "comments":""
   },
   {
     "pmen_designation":15,
@@ -2011,9 +2345,11 @@
     "seq_type":"242",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700906",
+    "comments":""
   },
   {
     "pmen_designation":15,
@@ -2023,9 +2359,11 @@
     "seq_type":"242",
     "continent":"North America",
     "country":"USA",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700906",
+    "comments":""
   },
   {
     "pmen_designation":15,
@@ -2035,9 +2373,11 @@
     "seq_type":"242",
     "continent":"South America",
     "country":"Venezula",
-    "coordinates":"6.42375,-66.58973",
+    "latitude":6.42375,
+    "longitude":-66.58973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"700906",
+    "comments":""
   },
   {
     "pmen_designation":16,
@@ -2047,9 +2387,11 @@
     "seq_type":"173",
     "continent":"Europe",
     "country":"Poland",
-    "coordinates":"51.919438,19.145136",
+    "latitude":51.919438,
+    "longitude":19.145136,
     "reference":"mlst",
-    "atcc_number":"BAA-343"
+    "atcc_number":"BAA-343",
+    "comments":""
   },
   {
     "pmen_designation":17,
@@ -2059,9 +2401,11 @@
     "seq_type":"384",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"J. Infect. Dis. 181: 216-229, 2000",
-    "atcc_number":"BAA-342"
+    "atcc_number":"BAA-342",
+    "comments":""
   },
   {
     "pmen_designation":18,
@@ -2071,9 +2415,11 @@
     "seq_type":"67",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"J. Infect. Dis. 181: 216-229, 2000",
-    "atcc_number":"BAA-340"
+    "atcc_number":"BAA-340",
+    "comments":""
   },
   {
     "pmen_designation":18,
@@ -2083,9 +2429,11 @@
     "seq_type":"67",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-341",
+    "comments":""
   },
   {
     "pmen_designation":18,
@@ -2095,9 +2443,11 @@
     "seq_type":"67",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-342",
+    "comments":""
   },
   {
     "pmen_designation":18,
@@ -2107,9 +2457,11 @@
     "seq_type":"67",
     "continent":"Asia",
     "country":"Taiwan",
-    "coordinates":"23.69781,120.960515",
+    "latitude":23.69781,
+    "longitude":120.960515,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-343",
+    "comments":""
   },
   {
     "pmen_designation":19,
@@ -2119,9 +2471,11 @@
     "seq_type":"289",
     "continent":"South America",
     "country":"Colombia",
-    "coordinates":"4.570868,-74.297333",
+    "latitude":4.570868,
+    "longitude":-74.297333,
     "reference":"J. Clin. Microbiol. 37: 2337-42, 1999",
-    "atcc_number":"BAA-341"
+    "atcc_number":"BAA-341",
+    "comments":""
   },
   {
     "pmen_designation":19,
@@ -2131,9 +2485,11 @@
     "seq_type":"289",
     "continent":"South America",
     "country":"Brazil",
-    "coordinates":"-14.235004,-51.92528",
+    "latitude":-14.235004,
+    "longitude":-51.92528,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-342",
+    "comments":""
   },
   {
     "pmen_designation":19,
@@ -2143,9 +2499,11 @@
     "seq_type":"289",
     "continent":"Africa",
     "country":"Egypt",
-    "coordinates":"26.820553,30.802498",
+    "latitude":26.820553,
+    "longitude":30.802498,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-343",
+    "comments":""
   },
   {
     "pmen_designation":19,
@@ -2155,9 +2513,11 @@
     "seq_type":"289",
     "continent":"Africa",
     "country":"Gambia",
-    "coordinates":"13.443182,-15.310139",
+    "latitude":13.443182,
+    "longitude":-15.310139,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-344",
+    "comments":""
   },
   {
     "pmen_designation":19,
@@ -2167,9 +2527,11 @@
     "seq_type":"289",
     "continent":"Africa",
     "country":"Kenya",
-    "coordinates":"-0.023559,37.906193",
+    "latitude":-0.023559,
+    "longitude":37.906193,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-345",
+    "comments":""
   },
   {
     "pmen_designation":19,
@@ -2179,9 +2541,11 @@
     "seq_type":"289",
     "continent":"Africa",
     "country":"Mozambique",
-    "coordinates":"-18.665695,35.529562",
+    "latitude":-18.665695,
+    "longitude":35.529562,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-346",
+    "comments":""
   },
   {
     "pmen_designation":19,
@@ -2191,9 +2555,11 @@
     "seq_type":"289",
     "continent":"Africa",
     "country":"Niger",
-    "coordinates":"17.607789,8.081666",
+    "latitude":17.607789,
+    "longitude":8.081666,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-347",
+    "comments":""
   },
   {
     "pmen_designation":19,
@@ -2203,9 +2569,11 @@
     "seq_type":"289",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-348",
+    "comments":""
   },
   {
     "pmen_designation":19,
@@ -2215,9 +2583,11 @@
     "seq_type":"289",
     "continent":"Europe",
     "country":"UK",
-    "coordinates":"55.378051,-3.435973",
+    "latitude":55.378051,
+    "longitude":-3.435973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-349",
+    "comments":""
   },
   {
     "pmen_designation":19,
@@ -2227,9 +2597,11 @@
     "seq_type":"289",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-350",
+    "comments":""
   },
   {
     "pmen_designation":19,
@@ -2239,9 +2611,11 @@
     "seq_type":"289",
     "continent":"Europe",
     "country":"Poland",
-    "coordinates":"51.919438,19.145136",
+    "latitude":51.919438,
+    "longitude":19.145136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-351",
+    "comments":""
   },
   {
     "pmen_designation":19,
@@ -2251,9 +2625,11 @@
     "seq_type":"289",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-352",
+    "comments":""
   },
   {
     "pmen_designation":19,
@@ -2263,9 +2639,11 @@
     "seq_type":"289",
     "continent":"Europe",
     "country":"Switzerland",
-    "coordinates":"46.818188,8.227512",
+    "latitude":46.818188,
+    "longitude":8.227512,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-353",
+    "comments":""
   },
   {
     "pmen_designation":19,
@@ -2275,9 +2653,11 @@
     "seq_type":"289",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-354",
+    "comments":""
   },
   {
     "pmen_designation":19,
@@ -2287,9 +2667,11 @@
     "seq_type":"289",
     "continent":"Asia",
     "country":"Thailand",
-    "coordinates":"15.870032,100.992541",
+    "latitude":15.870032,
+    "longitude":100.992541,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-355",
+    "comments":""
   },
   {
     "pmen_designation":19,
@@ -2299,9 +2681,11 @@
     "seq_type":"289",
     "continent":"Asia",
     "country":"India",
-    "coordinates":"20.593684,78.96288",
+    "latitude":20.593684,
+    "longitude":78.96288,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-356",
+    "comments":""
   },
   {
     "pmen_designation":20,
@@ -2311,9 +2695,11 @@
     "seq_type":"315",
     "continent":"Europe",
     "country":"Poland",
-    "coordinates":"51.919438,19.145136",
+    "latitude":51.919438,
+    "longitude":19.145136,
     "reference":"mlst",
-    "atcc_number":"BAA-612"
+    "atcc_number":"BAA-612",
+    "comments":""
   },
   {
     "pmen_designation":20,
@@ -2323,9 +2709,11 @@
     "seq_type":"315",
     "continent":"Europe",
     "country":"Bulgaria",
-    "coordinates":"42.733883,25.48583",
+    "latitude":42.733883,
+    "longitude":25.48583,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-613",
+    "comments":""
   },
   {
     "pmen_designation":20,
@@ -2335,9 +2723,11 @@
     "seq_type":"315",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-614",
+    "comments":""
   },
   {
     "pmen_designation":20,
@@ -2347,9 +2737,11 @@
     "seq_type":"315",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-615",
+    "comments":""
   },
   {
     "pmen_designation":20,
@@ -2359,9 +2751,11 @@
     "seq_type":"315",
     "continent":"Europe",
     "country":"Czech Republic",
-    "coordinates":"49.817492,15.472962",
+    "latitude":49.817492,
+    "longitude":15.472962,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-616",
+    "comments":""
   },
   {
     "pmen_designation":20,
@@ -2371,9 +2765,11 @@
     "seq_type":"315",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-617",
+    "comments":""
   },
   {
     "pmen_designation":20,
@@ -2383,9 +2779,11 @@
     "seq_type":"315",
     "continent":"Europe",
     "country":"Slovakia",
-    "coordinates":"48.669026,19.699024",
+    "latitude":48.669026,
+    "longitude":19.699024,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-618",
+    "comments":""
   },
   {
     "pmen_designation":20,
@@ -2395,9 +2793,11 @@
     "seq_type":"315",
     "continent":"Europe",
     "country":"Portugal",
-    "coordinates":"39.399872,-8.224454",
+    "latitude":39.399872,
+    "longitude":-8.224454,
     "reference":"J Infect Dis, 2000, 182: 1153-1160",
-    "atcc_number":""
+    "atcc_number":"BAA-619",
+    "comments":""
   },
   {
     "pmen_designation":20,
@@ -2407,9 +2807,11 @@
     "seq_type":"315",
     "continent":"Europe",
     "country":"Russia",
-    "coordinates":"61.52401,105.318756",
+    "latitude":61.52401,
+    "longitude":105.318756,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-620",
+    "comments":""
   },
   {
     "pmen_designation":20,
@@ -2419,9 +2821,11 @@
     "seq_type":"315",
     "continent":"South America",
     "country":"Chile",
-    "coordinates":"-35.675147,-71.542969",
+    "latitude":-35.675147,
+    "longitude":-71.542969,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-621",
+    "comments":""
   },
   {
     "pmen_designation":20,
@@ -2431,9 +2835,11 @@
     "seq_type":"315",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-622",
+    "comments":""
   },
   {
     "pmen_designation":20,
@@ -2443,9 +2849,11 @@
     "seq_type":"315",
     "continent":"Asia",
     "country":"Sri Lanka",
-    "coordinates":"7.873054,80.771797",
+    "latitude":7.873054,
+    "longitude":80.771797,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-623",
+    "comments":""
   },
   {
     "pmen_designation":20,
@@ -2455,9 +2863,11 @@
     "seq_type":"315",
     "continent":"Asia",
     "country":"Thailand",
-    "coordinates":"15.870032,100.992541",
+    "latitude":15.870032,
+    "longitude":100.992541,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-624",
+    "comments":""
   },
   {
     "pmen_designation":20,
@@ -2467,9 +2877,11 @@
     "seq_type":"315",
     "continent":"Asia",
     "country":"Kuwauit",
-    "coordinates":"29.31166,47.481766",
+    "latitude":29.31166,
+    "longitude":47.481766,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-625",
+    "comments":""
   },
   {
     "pmen_designation":21,
@@ -2479,9 +2891,11 @@
     "seq_type":"177",
     "continent":"Europe",
     "country":"Portugal",
-    "coordinates":"39.399872,-8.224454",
+    "latitude":39.399872,
+    "longitude":-8.224454,
     "reference":"J Infect Dis, 2000, 182: 1153-1160",
-    "atcc_number":"BAA-657"
+    "atcc_number":"BAA-657",
+    "comments":""
   },
   {
     "pmen_designation":21,
@@ -2491,9 +2905,11 @@
     "seq_type":"177",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-658",
+    "comments":""
   },
   {
     "pmen_designation":21,
@@ -2503,9 +2919,11 @@
     "seq_type":"177",
     "continent":"Europe",
     "country":"Iceland",
-    "coordinates":"64.963051,-19.020835",
+    "latitude":64.963051,
+    "longitude":-19.020835,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-659",
+    "comments":""
   },
   {
     "pmen_designation":21,
@@ -2515,9 +2933,11 @@
     "seq_type":"177",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-660",
+    "comments":""
   },
   {
     "pmen_designation":21,
@@ -2527,9 +2947,11 @@
     "seq_type":"177",
     "continent":"Europe",
     "country":"Greece",
-    "coordinates":"39.074208,21.824312",
+    "latitude":39.074208,
+    "longitude":21.824312,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-661",
+    "comments":""
   },
   {
     "pmen_designation":21,
@@ -2539,9 +2961,11 @@
     "seq_type":"177",
     "continent":"Europe",
     "country":"The Netherlands",
-    "coordinates":"52.132633,5.291266",
+    "latitude":52.132633,
+    "longitude":5.291266,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-662",
+    "comments":""
   },
   {
     "pmen_designation":21,
@@ -2551,9 +2975,11 @@
     "seq_type":"177",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-663",
+    "comments":""
   },
   {
     "pmen_designation":21,
@@ -2563,9 +2989,11 @@
     "seq_type":"177",
     "continent":"Africa",
     "country":"Senegal",
-    "coordinates":"14.497401,-14.452362",
+    "latitude":14.497401,
+    "longitude":-14.452362,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-664",
+    "comments":""
   },
   {
     "pmen_designation":21,
@@ -2575,9 +3003,11 @@
     "seq_type":"177",
     "continent":"South America",
     "country":"Brazil",
-    "coordinates":"-14.235004,-51.92528",
+    "latitude":-14.235004,
+    "longitude":-51.92528,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-665",
+    "comments":""
   },
   {
     "pmen_designation":21,
@@ -2587,9 +3017,11 @@
     "seq_type":"177",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-666",
+    "comments":""
   },
   {
     "pmen_designation":22,
@@ -2599,9 +3031,11 @@
     "seq_type":"273",
     "continent":"Europe",
     "country":"Greece",
-    "coordinates":"39.074208,21.824312",
+    "latitude":39.074208,
+    "longitude":21.824312,
     "reference":"mlst",
-    "atcc_number":"BAA-658"
+    "atcc_number":"BAA-658",
+    "comments":""
   },
   {
     "pmen_designation":22,
@@ -2611,9 +3045,11 @@
     "seq_type":"273",
     "continent":"Europe",
     "country":"Iceland",
-    "coordinates":"64.963051,-19.020835",
+    "latitude":64.963051,
+    "longitude":-19.020835,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-659",
+    "comments":""
   },
   {
     "pmen_designation":22,
@@ -2623,9 +3059,11 @@
     "seq_type":"273",
     "continent":"Europe",
     "country":"Czech Republic",
-    "coordinates":"49.817492,15.472962",
+    "latitude":49.817492,
+    "longitude":15.472962,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-660",
+    "comments":""
   },
   {
     "pmen_designation":22,
@@ -2635,9 +3073,11 @@
     "seq_type":"273",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-661",
+    "comments":""
   },
   {
     "pmen_designation":22,
@@ -2647,9 +3087,11 @@
     "seq_type":"273",
     "continent":"Europe",
     "country":"Finland",
-    "coordinates":"61.92411,25.748151",
+    "latitude":61.92411,
+    "longitude":25.748151,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-662",
+    "comments":""
   },
   {
     "pmen_designation":22,
@@ -2659,9 +3101,11 @@
     "seq_type":"273",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-663",
+    "comments":""
   },
   {
     "pmen_designation":22,
@@ -2671,9 +3115,11 @@
     "seq_type":"273",
     "continent":"Europe",
     "country":"Portugal",
-    "coordinates":"39.399872,-8.224454",
+    "latitude":39.399872,
+    "longitude":-8.224454,
     "reference":"J Infect Dis, 2000, 182: 1153-1160",
-    "atcc_number":""
+    "atcc_number":"BAA-664",
+    "comments":""
   },
   {
     "pmen_designation":22,
@@ -2683,9 +3129,11 @@
     "seq_type":"273",
     "continent":"Europe",
     "country":"Sweden",
-    "coordinates":"60.128161,18.643501",
+    "latitude":60.128161,
+    "longitude":18.643501,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-665",
+    "comments":""
   },
   {
     "pmen_designation":22,
@@ -2695,9 +3143,11 @@
     "seq_type":"273",
     "continent":"Europe",
     "country":"Switzerland",
-    "coordinates":"46.818188,8.227512",
+    "latitude":46.818188,
+    "longitude":8.227512,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-666",
+    "comments":""
   },
   {
     "pmen_designation":22,
@@ -2707,9 +3157,11 @@
     "seq_type":"273",
     "continent":"Asia",
     "country":"Israel",
-    "coordinates":"31.046051,34.851612",
+    "latitude":31.046051,
+    "longitude":34.851612,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-667",
+    "comments":""
   },
   {
     "pmen_designation":22,
@@ -2719,9 +3171,11 @@
     "seq_type":"273",
     "continent":"Asia",
     "country":"Japan",
-    "coordinates":"36.204824,138.252924",
+    "latitude":36.204824,
+    "longitude":138.252924,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-668",
+    "comments":""
   },
   {
     "pmen_designation":22,
@@ -2731,9 +3185,11 @@
     "seq_type":"273",
     "continent":"Asia",
     "country":"Korea",
-    "coordinates":"35.907757,127.766922",
+    "latitude":35.907757,
+    "longitude":127.766922,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-669",
+    "comments":""
   },
   {
     "pmen_designation":22,
@@ -2743,9 +3199,11 @@
     "seq_type":"",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"J. Infect. Dis. 2000, 182: 1153-60",
-    "atcc_number":""
+    "atcc_number":"BAA-670",
+    "comments":""
   },
   {
     "pmen_designation":23,
@@ -2755,9 +3213,11 @@
     "seq_type":"376",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":"BAA-659"
+    "atcc_number":"BAA-659",
+    "comments":""
   },
   {
     "pmen_designation":24,
@@ -2767,9 +3227,11 @@
     "seq_type":"377",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":"BAA-660"
+    "atcc_number":"BAA-660",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -2779,9 +3241,11 @@
     "seq_type":"63",
     "continent":"Europe",
     "country":"Sweden",
-    "coordinates":"60.128161,18.643501",
+    "latitude":60.128161,
+    "longitude":18.643501,
     "reference":"mlst",
-    "atcc_number":"BAA-661"
+    "atcc_number":"BAA-661",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -2791,9 +3255,11 @@
     "seq_type":"63",
     "continent":"Europe",
     "country":"Portugal",
-    "coordinates":"39.399872,-8.224454",
+    "latitude":39.399872,
+    "longitude":-8.224454,
     "reference":"J Infect Dis, 2000, 182: 1153-1160",
-    "atcc_number":""
+    "atcc_number":"BAA-662",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -2803,9 +3269,11 @@
     "seq_type":"63",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-663",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -2815,9 +3283,11 @@
     "seq_type":"63",
     "continent":"Europe",
     "country":"France ",
-    "coordinates":"46.227638,2.213749",
+    "latitude":46.227638,
+    "longitude":2.213749,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-664",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -2827,9 +3297,11 @@
     "seq_type":"63",
     "continent":"Europe",
     "country":"Finland",
-    "coordinates":"61.92411,25.748151",
+    "latitude":61.92411,
+    "longitude":25.748151,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-665",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -2839,9 +3311,11 @@
     "seq_type":"63",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-666",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -2851,9 +3325,11 @@
     "seq_type":"63",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-667",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -2863,9 +3339,11 @@
     "seq_type":"63",
     "continent":"Europe",
     "country":"Greece",
-    "coordinates":"39.074208,21.824312",
+    "latitude":39.074208,
+    "longitude":21.824312,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-668",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -2875,9 +3353,11 @@
     "seq_type":"63",
     "continent":"Europe",
     "country":"Russia",
-    "coordinates":"61.52401,105.318756",
+    "latitude":61.52401,
+    "longitude":105.318756,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-669",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -2887,9 +3367,11 @@
     "seq_type":"63",
     "continent":"Africa",
     "country":"The Gambia",
-    "coordinates":"13.443182,-15.310139",
+    "latitude":13.443182,
+    "longitude":-15.310139,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-670",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -2899,9 +3381,11 @@
     "seq_type":"63",
     "continent":"Africa",
     "country":"Egypt",
-    "coordinates":"26.820553,30.802498",
+    "latitude":26.820553,
+    "longitude":30.802498,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-671",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -2911,9 +3395,11 @@
     "seq_type":"63",
     "continent":"Africa",
     "country":"Kenya",
-    "coordinates":"-0.023559,37.906193",
+    "latitude":-0.023559,
+    "longitude":37.906193,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-672",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -2923,9 +3409,11 @@
     "seq_type":"63",
     "continent":"Africa",
     "country":"Nigeria",
-    "coordinates":"9.081999,8.675277",
+    "latitude":9.081999,
+    "longitude":8.675277,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-673",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -2935,9 +3423,11 @@
     "seq_type":"63",
     "continent":"Africa",
     "country":"Niger",
-    "coordinates":"17.607789,8.081666",
+    "latitude":17.607789,
+    "longitude":8.081666,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-674",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -2947,9 +3437,11 @@
     "seq_type":"63",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-675",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -2959,9 +3451,11 @@
     "seq_type":"63",
     "continent":"Asia",
     "country":"Thailand",
-    "coordinates":"15.870032,100.992541",
+    "latitude":15.870032,
+    "longitude":100.992541,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-676",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -2971,9 +3465,11 @@
     "seq_type":"63",
     "continent":"Asia",
     "country":"Japan",
-    "coordinates":"36.204824,138.252924",
+    "latitude":36.204824,
+    "longitude":138.252924,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-677",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -2983,9 +3479,11 @@
     "seq_type":"63",
     "continent":"Asia",
     "country":"India",
-    "coordinates":"20.593684,78.96288",
+    "latitude":20.593684,
+    "longitude":78.96288,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-678",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -2995,9 +3493,11 @@
     "seq_type":"63",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-679",
+    "comments":""
   },
   {
     "pmen_designation":25,
@@ -3007,9 +3507,11 @@
     "seq_type":"63",
     "continent":"South America",
     "country":"Venezuela",
-    "coordinates":"6.42375,-66.58973",
+    "latitude":6.42375,
+    "longitude":-66.58973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-680",
+    "comments":""
   },
   {
     "pmen_designation":26,
@@ -3019,9 +3521,11 @@
     "seq_type":"338",
     "continent":"South America",
     "country":"Colombia",
-    "coordinates":"4.570868,-74.297333",
+    "latitude":4.570868,
+    "longitude":-74.297333,
     "reference":"mlst",
-    "atcc_number":"BAA-662"
+    "atcc_number":"BAA-662",
+    "comments":""
   },
   {
     "pmen_designation":26,
@@ -3031,9 +3535,11 @@
     "seq_type":"338",
     "continent":"South America",
     "country":"Brazil",
-    "coordinates":"-14.235004,-51.92528",
+    "latitude":-14.235004,
+    "longitude":-51.92528,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-663",
+    "comments":""
   },
   {
     "pmen_designation":26,
@@ -3043,9 +3549,11 @@
     "seq_type":"338",
     "continent":"Europe",
     "country":"France",
-    "coordinates":"46.227638,2.213749",
+    "latitude":46.227638,
+    "longitude":2.213749,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-664",
+    "comments":""
   },
   {
     "pmen_designation":26,
@@ -3055,9 +3563,11 @@
     "seq_type":"338",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-665",
+    "comments":""
   },
   {
     "pmen_designation":26,
@@ -3067,9 +3577,11 @@
     "seq_type":"338",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-666",
+    "comments":""
   },
   {
     "pmen_designation":26,
@@ -3079,9 +3591,11 @@
     "seq_type":"338",
     "continent":"Europe",
     "country":"Norway",
-    "coordinates":"60.472024,8.468946",
+    "latitude":60.472024,
+    "longitude":8.468946,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-667",
+    "comments":""
   },
   {
     "pmen_designation":26,
@@ -3091,9 +3605,11 @@
     "seq_type":"338",
     "continent":"Europe",
     "country":"Portugal",
-    "coordinates":"39.399872,-8.224454",
+    "latitude":39.399872,
+    "longitude":-8.224454,
     "reference":"J Infect Dis. 2000, 182: 1153-1160",
-    "atcc_number":""
+    "atcc_number":"BAA-668",
+    "comments":""
   },
   {
     "pmen_designation":26,
@@ -3103,9 +3619,11 @@
     "seq_type":"338",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-669",
+    "comments":""
   },
   {
     "pmen_designation":26,
@@ -3115,9 +3633,11 @@
     "seq_type":"",
     "continent":"Europe",
     "country":"Iceland",
-    "coordinates":"64.963051,-19.020835",
+    "latitude":64.963051,
+    "longitude":-19.020835,
     "reference":"J Infect Dis. 2000, 182: 1153-1160",
-    "atcc_number":""
+    "atcc_number":"BAA-670",
+    "comments":""
   },
   {
     "pmen_designation":26,
@@ -3127,9 +3647,11 @@
     "seq_type":"338",
     "continent":"Asia",
     "country":"Japan",
-    "coordinates":"36.204824,138.252924",
+    "latitude":36.204824,
+    "longitude":138.252924,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-671",
+    "comments":""
   },
   {
     "pmen_designation":26,
@@ -3139,9 +3661,11 @@
     "seq_type":"338",
     "continent":"Asia",
     "country":"Malaysia",
-    "coordinates":"4.210484,101.975766",
+    "latitude":4.210484,
+    "longitude":101.975766,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-672",
+    "comments":""
   },
   {
     "pmen_designation":26,
@@ -3151,9 +3675,11 @@
     "seq_type":"338",
     "continent":"Asia",
     "country":"South Korea",
-    "coordinates":"35.907757,127.766922",
+    "latitude":35.907757,
+    "longitude":127.766922,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-673",
+    "comments":""
   },
   {
     "pmen_designation":26,
@@ -3163,9 +3689,11 @@
     "seq_type":"338",
     "continent":"Asia",
     "country":"Thailand",
-    "coordinates":"15.870032,100.992541",
+    "latitude":15.870032,
+    "longitude":100.992541,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-674",
+    "comments":""
   },
   {
     "pmen_designation":26,
@@ -3175,9 +3703,11 @@
     "seq_type":"338",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"BAA-675",
+    "comments":""
   },
   {
     "pmen_designation":27,
@@ -3187,9 +3717,11 @@
     "seq_type":"217",
     "continent":"Europe",
     "country":"Denmark",
-    "coordinates":"56.26392,9.501785",
+    "latitude":56.26392,
+    "longitude":9.501785,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":27,
@@ -3199,9 +3731,11 @@
     "seq_type":"217",
     "continent":"Europe",
     "country":"France",
-    "coordinates":"46.227638,2.213749",
+    "latitude":46.227638,
+    "longitude":2.213749,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":27,
@@ -3211,9 +3745,11 @@
     "seq_type":"217",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":27,
@@ -3223,9 +3759,11 @@
     "seq_type":"217",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":27,
@@ -3235,9 +3773,11 @@
     "seq_type":"217",
     "continent":"Europe",
     "country":"Sweden",
-    "coordinates":"60.128161,18.643501",
+    "latitude":60.128161,
+    "longitude":18.643501,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":27,
@@ -3247,9 +3787,11 @@
     "seq_type":"217",
     "continent":"Africa",
     "country":"Ghana",
-    "coordinates":"7.946527,-1.023194",
+    "latitude":7.946527,
+    "longitude":-1.023194,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":27,
@@ -3259,9 +3801,11 @@
     "seq_type":"217",
     "continent":"Africa",
     "country":"Kenya",
-    "coordinates":"-0.023559,37.906193",
+    "latitude":-0.023559,
+    "longitude":37.906193,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":27,
@@ -3271,9 +3815,11 @@
     "seq_type":"217",
     "continent":"Africa",
     "country":"Mozambique",
-    "coordinates":"-18.665695,35.529562",
+    "latitude":-18.665695,
+    "longitude":35.529562,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":27,
@@ -3283,9 +3829,11 @@
     "seq_type":"217",
     "continent":"Africa",
     "country":"Niger",
-    "coordinates":"17.607789,8.081666",
+    "latitude":17.607789,
+    "longitude":8.081666,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":27,
@@ -3295,9 +3843,11 @@
     "seq_type":"217",
     "continent":"Africa",
     "country":"Nigeria",
-    "coordinates":"9.081999,8.675277",
+    "latitude":9.081999,
+    "longitude":8.675277,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":27,
@@ -3307,9 +3857,11 @@
     "seq_type":"217",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":27,
@@ -3319,9 +3871,11 @@
     "seq_type":"217",
     "continent":"Africa",
     "country":"The Gambia",
-    "coordinates":"13.443182,-15.310139",
+    "latitude":13.443182,
+    "longitude":-15.310139,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":27,
@@ -3331,9 +3885,11 @@
     "seq_type":"217",
     "continent":"Asia",
     "country":"Israel",
-    "coordinates":"31.046051,34.851612",
+    "latitude":31.046051,
+    "longitude":34.851612,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":27,
@@ -3343,9 +3899,11 @@
     "seq_type":"217",
     "continent":"Asia",
     "country":"Lebannon",
-    "coordinates":"33.854721,35.862285",
+    "latitude":33.854721,
+    "longitude":35.862285,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":27,
@@ -3355,9 +3913,11 @@
     "seq_type":"217",
     "continent":"Asia",
     "country":"Malaysia",
-    "coordinates":"4.210484,101.975766",
+    "latitude":4.210484,
+    "longitude":101.975766,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":27,
@@ -3367,9 +3927,11 @@
     "seq_type":"217",
     "continent":"Asia",
     "country":"Qatar",
-    "coordinates":"25.354826,51.183884",
+    "latitude":25.354826,
+    "longitude":51.183884,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":27,
@@ -3379,9 +3941,11 @@
     "seq_type":"217",
     "continent":"Asia",
     "country":"Thailand",
-    "coordinates":"15.870032,100.992541",
+    "latitude":15.870032,
+    "longitude":100.992541,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3391,9 +3955,11 @@
     "seq_type":"306",
     "continent":"Europe",
     "country":"Sweden",
-    "coordinates":"60.128161,18.643501",
+    "latitude":60.128161,
+    "longitude":18.643501,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3403,9 +3969,11 @@
     "seq_type":"306",
     "continent":"Europe",
     "country":"Czech Republic",
-    "coordinates":"49.817492,15.472962",
+    "latitude":49.817492,
+    "longitude":15.472962,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3415,9 +3983,11 @@
     "seq_type":"306",
     "continent":"Europe",
     "country":"Denmark",
-    "coordinates":"56.26392,9.501785",
+    "latitude":56.26392,
+    "longitude":9.501785,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3427,9 +3997,11 @@
     "seq_type":"306",
     "continent":"Europe",
     "country":"France",
-    "coordinates":"46.227638,2.213749",
+    "latitude":46.227638,
+    "longitude":2.213749,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3439,9 +4011,11 @@
     "seq_type":"306",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3451,9 +4025,11 @@
     "seq_type":"306",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3463,9 +4039,11 @@
     "seq_type":"306",
     "continent":"Europe",
     "country":"Hungary",
-    "coordinates":"47.162494,19.503304",
+    "latitude":47.162494,
+    "longitude":19.503304,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3475,9 +4053,11 @@
     "seq_type":"306",
     "continent":"Europe",
     "country":"Norway",
-    "coordinates":"60.472024,8.468946",
+    "latitude":60.472024,
+    "longitude":8.468946,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3487,9 +4067,11 @@
     "seq_type":"306",
     "continent":"Europe",
     "country":"Poland",
-    "coordinates":"51.919438,19.145136",
+    "latitude":51.919438,
+    "longitude":19.145136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3499,9 +4081,11 @@
     "seq_type":"306",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3511,9 +4095,11 @@
     "seq_type":"396",
     "continent":"Europe",
     "country":"Switzerland",
-    "coordinates":"46.818188,8.227512",
+    "latitude":46.818188,
+    "longitude":8.227512,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3523,9 +4109,11 @@
     "seq_type":"306",
     "continent":"Europe",
     "country":"Turkey",
-    "coordinates":"38.963745,35.243322",
+    "latitude":38.963745,
+    "longitude":35.243322,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3535,9 +4123,11 @@
     "seq_type":"306",
     "continent":"North America",
     "country":"USA",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3547,9 +4137,11 @@
     "seq_type":"306",
     "continent":"North America",
     "country":"Canada",
-    "coordinates":"56.130366,-106.346771",
+    "latitude":56.130366,
+    "longitude":-106.346771,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3559,9 +4151,11 @@
     "seq_type":"306",
     "continent":"South America",
     "country":"Colombia",
-    "coordinates":"4.570868,-74.297333",
+    "latitude":4.570868,
+    "longitude":-74.297333,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3571,9 +4165,11 @@
     "seq_type":"306",
     "continent":"South America",
     "country":"Venezuela",
-    "coordinates":"6.42375,-66.58973",
+    "latitude":6.42375,
+    "longitude":-66.58973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3583,9 +4179,11 @@
     "seq_type":"306",
     "continent":"Asia",
     "country":"Japan",
-    "coordinates":"36.204824,138.252924",
+    "latitude":36.204824,
+    "longitude":138.252924,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3595,9 +4193,11 @@
     "seq_type":"306",
     "continent":"Asia",
     "country":"Qatar",
-    "coordinates":"25.354826,51.183884",
+    "latitude":25.354826,
+    "longitude":51.183884,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3607,9 +4207,11 @@
     "seq_type":"306",
     "continent":"Oceania",
     "country":"New Caledonia",
-    "coordinates":"-20.904305,165.618042",
+    "latitude":-20.904305,
+    "longitude":165.618042,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3619,9 +4221,11 @@
     "seq_type":"306",
     "continent":"Oceania",
     "country":"Wallis and Futuna",
-    "coordinates":"-14.2938,-178.1165",
+    "latitude":-14.2938,
+    "longitude":-178.1165,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":28,
@@ -3631,9 +4235,11 @@
     "seq_type":"306",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":29,
@@ -3643,9 +4249,11 @@
     "seq_type":"615",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":29,
@@ -3655,9 +4263,11 @@
     "seq_type":"615",
     "continent":"Asia",
     "country":"Malaysia",
-    "coordinates":"4.210484,101.975766",
+    "latitude":4.210484,
+    "longitude":101.975766,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":29,
@@ -3667,9 +4277,11 @@
     "seq_type":"615",
     "continent":"Asia",
     "country":"South Korea",
-    "coordinates":"35.907757,127.766922",
+    "latitude":35.907757,
+    "longitude":127.766922,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":29,
@@ -3679,9 +4291,11 @@
     "seq_type":"615",
     "continent":"South America",
     "country":"Chile",
-    "coordinates":"-35.675147,-71.542969",
+    "latitude":-35.675147,
+    "longitude":-71.542969,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":29,
@@ -3691,9 +4305,11 @@
     "seq_type":"615",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":30,
@@ -3703,9 +4319,11 @@
     "seq_type":"193",
     "continent":"South America",
     "country":"Brazil",
-    "coordinates":"-14.235004,-51.92528",
+    "latitude":-14.235004,
+    "longitude":-51.92528,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":30,
@@ -3715,9 +4333,11 @@
     "seq_type":"193",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":30,
@@ -3727,9 +4347,11 @@
     "seq_type":"193",
     "continent":"Europe",
     "country":"Finland",
-    "coordinates":"61.92411,25.748151",
+    "latitude":61.92411,
+    "longitude":25.748151,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":30,
@@ -3739,9 +4361,11 @@
     "seq_type":"193",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":30,
@@ -3751,9 +4375,11 @@
     "seq_type":"193",
     "continent":"Europe",
     "country":"Greece",
-    "coordinates":"39.074208,21.824312",
+    "latitude":39.074208,
+    "longitude":21.824312,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":30,
@@ -3763,21 +4389,25 @@
     "seq_type":"193",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":30,
     "parent_clone":"Greece 21-30",
     "serotype":"19A",
     "date_first_isolated":"1998",
-    "seq_type":"103",
+    "seq_type":"193",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":30,
@@ -3787,9 +4417,11 @@
     "seq_type":"193",
     "continent":"Europe",
     "country":"UK",
-    "coordinates":"55.378051,-3.435973",
+    "latitude":55.378051,
+    "longitude":-3.435973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":30,
@@ -3799,9 +4431,11 @@
     "seq_type":"193",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":30,
@@ -3811,9 +4445,11 @@
     "seq_type":"193",
     "continent":"Asia",
     "country":"Kingdom of Saudi Arabia",
-    "coordinates":"23.885942,45.079162",
+    "latitude":23.885942,
+    "longitude":45.079162,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":30,
@@ -3823,9 +4459,11 @@
     "seq_type":"193",
     "continent":"Asia",
     "country":"Vietnam",
-    "coordinates":"14.058324,108.277199",
+    "latitude":14.058324,
+    "longitude":108.277199,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":30,
@@ -3835,9 +4473,11 @@
     "seq_type":"193",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -3847,9 +4487,11 @@
     "seq_type":"180",
     "continent":"Europe",
     "country":"Belgium",
-    "coordinates":"50.503887,4.469936",
+    "latitude":50.503887,
+    "longitude":4.469936,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -3859,9 +4501,11 @@
     "seq_type":"180",
     "continent":"Europe",
     "country":"Czech Republic",
-    "coordinates":"49.817492,15.472962",
+    "latitude":49.817492,
+    "longitude":15.472962,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -3871,9 +4515,11 @@
     "seq_type":"180",
     "continent":"Europe",
     "country":"Denmark",
-    "coordinates":"56.26392,9.501785",
+    "latitude":56.26392,
+    "longitude":9.501785,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -3883,9 +4529,11 @@
     "seq_type":"180",
     "continent":"Europe",
     "country":"France",
-    "coordinates":"46.227638,2.213749",
+    "latitude":46.227638,
+    "longitude":2.213749,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -3895,9 +4543,11 @@
     "seq_type":"180",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -3907,9 +4557,11 @@
     "seq_type":"180",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -3919,9 +4571,11 @@
     "seq_type":"180",
     "continent":"Europe",
     "country":"Norway",
-    "coordinates":"60.472024,8.468946",
+    "latitude":60.472024,
+    "longitude":8.468946,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -3931,9 +4585,11 @@
     "seq_type":"180",
     "continent":"Europe",
     "country":"Poland",
-    "coordinates":"51.919438,19.145136",
+    "latitude":51.919438,
+    "longitude":19.145136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -3943,9 +4599,11 @@
     "seq_type":"180",
     "continent":"Europe",
     "country":"Portugal",
-    "coordinates":"39.399872,-8.224454",
+    "latitude":39.399872,
+    "longitude":-8.224454,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -3955,9 +4613,11 @@
     "seq_type":"180",
     "continent":"Europe",
     "country":"Russia",
-    "coordinates":"61.52401,105.318756",
+    "latitude":61.52401,
+    "longitude":105.318756,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -3967,9 +4627,11 @@
     "seq_type":"180",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -3979,9 +4641,11 @@
     "seq_type":"180",
     "continent":"Europe",
     "country":"Sweden",
-    "coordinates":"60.128161,18.643501",
+    "latitude":60.128161,
+    "longitude":18.643501,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -3991,9 +4655,11 @@
     "seq_type":"180",
     "continent":"Europe",
     "country":"The Netherlands",
-    "coordinates":"52.132633,5.291266",
+    "latitude":52.132633,
+    "longitude":5.291266,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -4003,9 +4669,11 @@
     "seq_type":"180",
     "continent":"Europe",
     "country":"UK",
-    "coordinates":"55.378051,-3.435973",
+    "latitude":55.378051,
+    "longitude":-3.435973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -4015,9 +4683,11 @@
     "seq_type":"180",
     "continent":"Asia",
     "country":"China",
-    "coordinates":"35.86166,104.195397",
+    "latitude":35.86166,
+    "longitude":104.195397,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -4027,9 +4697,11 @@
     "seq_type":"180",
     "continent":"Asia",
     "country":"Japan",
-    "coordinates":"36.204824,138.252924",
+    "latitude":36.204824,
+    "longitude":138.252924,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -4039,9 +4711,11 @@
     "seq_type":"180",
     "continent":"Asia",
     "country":"Kingdom of Saudi Arabia",
-    "coordinates":"23.885942,45.079162",
+    "latitude":23.885942,
+    "longitude":45.079162,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -4051,9 +4725,11 @@
     "seq_type":"180",
     "continent":"Asia",
     "country":"South Korea",
-    "coordinates":"35.907757,127.766922",
+    "latitude":35.907757,
+    "longitude":127.766922,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -4063,9 +4739,11 @@
     "seq_type":"180",
     "continent":"Asia",
     "country":"Taiwan",
-    "coordinates":"23.69781,120.960515",
+    "latitude":23.69781,
+    "longitude":120.960515,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -4075,9 +4753,11 @@
     "seq_type":"180",
     "continent":"Asia",
     "country":"Thailand",
-    "coordinates":"15.870032,100.992541",
+    "latitude":15.870032,
+    "longitude":100.992541,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -4087,9 +4767,11 @@
     "seq_type":"180",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -4099,9 +4781,11 @@
     "seq_type":"180",
     "continent":"Africa",
     "country":"The Gambia",
-    "coordinates":"13.443182,-15.310139",
+    "latitude":13.443182,
+    "longitude":-15.310139,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -4111,9 +4795,11 @@
     "seq_type":"180",
     "continent":"North America",
     "country":"Canada",
-    "coordinates":"56.130366,-106.346771",
+    "latitude":56.130366,
+    "longitude":-106.346771,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -4123,9 +4809,11 @@
     "seq_type":"180",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -4135,9 +4823,11 @@
     "seq_type":"180",
     "continent":"South America",
     "country":"Brazil",
-    "coordinates":"-14.235004,-51.92528",
+    "latitude":-14.235004,
+    "longitude":-51.92528,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":31,
@@ -4147,9 +4837,11 @@
     "seq_type":"180",
     "continent":"Australasia",
     "country":"New Zealand",
-    "coordinates":"-40.900557,174.885971",
+    "latitude":-40.900557,
+    "longitude":174.885971,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":32,
@@ -4159,9 +4851,11 @@
     "seq_type":"230",
     "continent":"Europe",
     "country":"Denmark",
-    "coordinates":"56.26392,9.501785",
+    "latitude":56.26392,
+    "longitude":9.501785,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":32,
@@ -4171,9 +4865,11 @@
     "seq_type":"230",
     "continent":"Europe",
     "country":"France",
-    "coordinates":"46.227638,2.213749",
+    "latitude":46.227638,
+    "longitude":2.213749,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":32,
@@ -4183,9 +4879,11 @@
     "seq_type":"230",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":32,
@@ -4195,9 +4893,11 @@
     "seq_type":"230",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":32,
@@ -4207,9 +4907,11 @@
     "seq_type":"230",
     "continent":"Europe",
     "country":"Portugal",
-    "coordinates":"39.399872,-8.224454",
+    "latitude":39.399872,
+    "longitude":-8.224454,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":32,
@@ -4219,9 +4921,11 @@
     "seq_type":"230",
     "continent":"Europe",
     "country":"Poland",
-    "coordinates":"51.919438,19.145136",
+    "latitude":51.919438,
+    "longitude":19.145136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":32,
@@ -4231,9 +4935,11 @@
     "seq_type":"230",
     "continent":"Europe",
     "country":"Russia",
-    "coordinates":"61.52401,105.318756",
+    "latitude":61.52401,
+    "longitude":105.318756,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":32,
@@ -4243,9 +4949,11 @@
     "seq_type":"230",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":32,
@@ -4255,9 +4963,11 @@
     "seq_type":"230",
     "continent":"Europe",
     "country":"Sweden",
-    "coordinates":"60.128161,18.643501",
+    "latitude":60.128161,
+    "longitude":18.643501,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":32,
@@ -4267,9 +4977,11 @@
     "seq_type":"230",
     "continent":"Africa",
     "country":"Kenya",
-    "coordinates":"-0.023559,37.906193",
+    "latitude":-0.023559,
+    "longitude":37.906193,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":32,
@@ -4279,9 +4991,11 @@
     "seq_type":"230",
     "continent":"Africa",
     "country":"Nigeria",
-    "coordinates":"9.081999,8.675277",
+    "latitude":9.081999,
+    "longitude":8.675277,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":32,
@@ -4291,9 +5005,11 @@
     "seq_type":"230",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":32,
@@ -4303,9 +5019,11 @@
     "seq_type":"230",
     "continent":"Asia",
     "country":"Thailand",
-    "coordinates":"15.870032,100.992541",
+    "latitude":15.870032,
+    "longitude":100.992541,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":32,
@@ -4315,9 +5033,11 @@
     "seq_type":"230",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":33,
@@ -4327,9 +5047,11 @@
     "seq_type":"53",
     "continent":"Europe",
     "country":"Netherlands",
-    "coordinates":"52.132633,5.291266",
+    "latitude":52.132633,
+    "longitude":5.291266,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":33,
@@ -4339,9 +5061,11 @@
     "seq_type":"53",
     "continent":"Europe",
     "country":"UK",
-    "coordinates":"55.378051,-3.435973",
+    "latitude":55.378051,
+    "longitude":-3.435973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":33,
@@ -4351,9 +5075,11 @@
     "seq_type":"53",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":33,
@@ -4363,9 +5089,11 @@
     "seq_type":"53",
     "continent":"Europe",
     "country":"Switzerland",
-    "coordinates":"46.818188,8.227512",
+    "latitude":46.818188,
+    "longitude":8.227512,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":33,
@@ -4375,9 +5103,11 @@
     "seq_type":"53",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":33,
@@ -4387,9 +5117,11 @@
     "seq_type":"53",
     "continent":"Europe",
     "country":"Sweden",
-    "coordinates":"60.128161,18.643501",
+    "latitude":60.128161,
+    "longitude":18.643501,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":33,
@@ -4399,9 +5131,11 @@
     "seq_type":"53",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":33,
@@ -4411,9 +5145,11 @@
     "seq_type":"53",
     "continent":"Europe",
     "country":"France",
-    "coordinates":"46.227638,2.213749",
+    "latitude":46.227638,
+    "longitude":2.213749,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":33,
@@ -4423,9 +5159,11 @@
     "seq_type":"53",
     "continent":"Europe",
     "country":"Poland",
-    "coordinates":"51.919438,19.145136",
+    "latitude":51.919438,
+    "longitude":19.145136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":33,
@@ -4435,9 +5173,11 @@
     "seq_type":"53",
     "continent":"South America",
     "country":"Brazil",
-    "coordinates":"-14.235004,-51.92528",
+    "latitude":-14.235004,
+    "longitude":-51.92528,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":33,
@@ -4447,9 +5187,11 @@
     "seq_type":"53",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":33,
@@ -4459,9 +5201,11 @@
     "seq_type":"53",
     "continent":"Australasia",
     "country":"New Zealand",
-    "coordinates":"-40.900557,174.885971",
+    "latitude":-40.900557,
+    "longitude":174.885971,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":33,
@@ -4471,9 +5215,11 @@
     "seq_type":"53",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":34,
@@ -4483,9 +5229,11 @@
     "seq_type":"218",
     "continent":"Europe",
     "country":"Czech Republic",
-    "coordinates":"49.817492,15.472962",
+    "latitude":49.817492,
+    "longitude":15.472962,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":34,
@@ -4495,9 +5243,11 @@
     "seq_type":"218",
     "continent":"Europe",
     "country":"Denmark",
-    "coordinates":"56.26392,9.501785",
+    "latitude":56.26392,
+    "longitude":9.501785,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":34,
@@ -4507,9 +5257,11 @@
     "seq_type":"218",
     "continent":"Europe",
     "country":"France",
-    "coordinates":"46.227638,2.213749",
+    "latitude":46.227638,
+    "longitude":2.213749,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":34,
@@ -4519,9 +5271,11 @@
     "seq_type":"218",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":34,
@@ -4531,9 +5285,11 @@
     "seq_type":"12F",
     "continent":"Europe",
     "country":"Poland",
-    "coordinates":"51.919438,19.145136",
+    "latitude":51.919438,
+    "longitude":19.145136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":34,
@@ -4543,9 +5299,11 @@
     "seq_type":"218",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":34,
@@ -4555,9 +5313,11 @@
     "seq_type":"218",
     "continent":"Europe",
     "country":"Sweden",
-    "coordinates":"60.128161,18.643501",
+    "latitude":60.128161,
+    "longitude":18.643501,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":34,
@@ -4567,9 +5327,11 @@
     "seq_type":"218",
     "continent":"Europe",
     "country":"UK",
-    "coordinates":"55.378051,-3.435973",
+    "latitude":55.378051,
+    "longitude":-3.435973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":34,
@@ -4579,9 +5341,11 @@
     "seq_type":"218",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":34,
@@ -4591,9 +5355,11 @@
     "seq_type":"218",
     "continent":"North America",
     "country":"Canada",
-    "coordinates":"56.130366,-106.346771",
+    "latitude":56.130366,
+    "longitude":-106.346771,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":34,
@@ -4603,9 +5369,11 @@
     "seq_type":"218",
     "continent":"South America",
     "country":"Chile",
-    "coordinates":"-35.675147,-71.542969",
+    "latitude":-35.675147,
+    "longitude":-71.542969,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":34,
@@ -4615,9 +5383,11 @@
     "seq_type":"218",
     "continent":"South America",
     "country":"Uruguay",
-    "coordinates":"-32.522779,-55.765835",
+    "latitude":-32.522779,
+    "longitude":-55.765835,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":34,
@@ -4627,9 +5397,11 @@
     "seq_type":"218",
     "continent":"Oceania",
     "country":"New Caledonia",
-    "coordinates":"-20.904305,165.618042",
+    "latitude":-20.904305,
+    "longitude":165.618042,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":34,
@@ -4639,9 +5411,11 @@
     "seq_type":"218",
     "continent":"Asia",
     "country":"Kingdom of Saudi Arabia",
-    "coordinates":"23.885942,45.079162",
+    "latitude":23.885942,
+    "longitude":45.079162,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":34,
@@ -4651,9 +5425,11 @@
     "seq_type":"218",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":35,
@@ -4663,9 +5439,11 @@
     "seq_type":"124",
     "continent":"Europe",
     "country":"Czech Republic",
-    "coordinates":"49.817492,15.472962",
+    "latitude":49.817492,
+    "longitude":15.472962,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":35,
@@ -4675,9 +5453,11 @@
     "seq_type":"124",
     "continent":"Europe",
     "country":"Denmark",
-    "coordinates":"56.26392,9.501785",
+    "latitude":56.26392,
+    "longitude":9.501785,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":35,
@@ -4687,9 +5467,11 @@
     "seq_type":"124",
     "continent":"Europe",
     "country":"Finland",
-    "coordinates":"61.92411,25.748151",
+    "latitude":61.92411,
+    "longitude":25.748151,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":35,
@@ -4699,9 +5481,11 @@
     "seq_type":"124",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":35,
@@ -4711,9 +5495,11 @@
     "seq_type":"124",
     "continent":"Europe",
     "country":"Norway",
-    "coordinates":"60.472024,8.468946",
+    "latitude":60.472024,
+    "longitude":8.468946,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":35,
@@ -4723,9 +5509,11 @@
     "seq_type":"124",
     "continent":"Europe",
     "country":"Poland",
-    "coordinates":"51.919438,19.145136",
+    "latitude":51.919438,
+    "longitude":19.145136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":35,
@@ -4735,9 +5523,11 @@
     "seq_type":"124",
     "continent":"Europe",
     "country":"Sweden",
-    "coordinates":"60.128161,18.643501",
+    "latitude":60.128161,
+    "longitude":18.643501,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":35,
@@ -4747,9 +5537,11 @@
     "seq_type":"124",
     "continent":"Europe",
     "country":"The Netherlands",
-    "coordinates":"52.132633,5.291266",
+    "latitude":52.132633,
+    "longitude":5.291266,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":35,
@@ -4759,9 +5551,11 @@
     "seq_type":"124",
     "continent":"Europe",
     "country":"UK",
-    "coordinates":"55.378051,-3.435973",
+    "latitude":55.378051,
+    "longitude":-3.435973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":35,
@@ -4771,9 +5565,11 @@
     "seq_type":"124",
     "continent":"Australasia",
     "country":"Australia",
-    "coordinates":"-25.274398,133.775136",
+    "latitude":-25.274398,
+    "longitude":133.775136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":35,
@@ -4783,9 +5579,11 @@
     "seq_type":"124",
     "continent":"North America",
     "country":"Canada",
-    "coordinates":"56.130366,-106.346771",
+    "latitude":56.130366,
+    "longitude":-106.346771,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":35,
@@ -4795,9 +5593,11 @@
     "seq_type":"124",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":35,
@@ -4807,9 +5607,11 @@
     "seq_type":"124",
     "continent":"South America",
     "country":"Brazil",
-    "coordinates":"-14.235004,-51.92528",
+    "latitude":-14.235004,
+    "longitude":-51.92528,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":35,
@@ -4819,9 +5621,11 @@
     "seq_type":"124",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":36,
@@ -4831,9 +5635,11 @@
     "seq_type":"113",
     "continent":"Europe",
     "country":"France",
-    "coordinates":"46.227638,2.213749",
+    "latitude":46.227638,
+    "longitude":2.213749,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":36,
@@ -4843,9 +5649,11 @@
     "seq_type":"113",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":36,
@@ -4855,9 +5663,11 @@
     "seq_type":"113",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":36,
@@ -4867,9 +5677,11 @@
     "seq_type":"113",
     "continent":"Europe",
     "country":"Switzerland",
-    "coordinates":"46.818188,8.227512",
+    "latitude":46.818188,
+    "longitude":8.227512,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":36,
@@ -4879,9 +5691,11 @@
     "seq_type":"113",
     "continent":"Europe",
     "country":"The Netherlands",
-    "coordinates":"52.132633,5.291266",
+    "latitude":52.132633,
+    "longitude":5.291266,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":36,
@@ -4891,9 +5705,11 @@
     "seq_type":"113",
     "continent":"Europe",
     "country":"UK",
-    "coordinates":"55.378051,-3.435973",
+    "latitude":55.378051,
+    "longitude":-3.435973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":36,
@@ -4903,9 +5719,11 @@
     "seq_type":"113",
     "continent":"Asia",
     "country":"Bangladesh",
-    "coordinates":"23.684994,90.356331",
+    "latitude":23.684994,
+    "longitude":90.356331,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":36,
@@ -4915,9 +5733,11 @@
     "seq_type":"113",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":36,
@@ -4927,9 +5747,11 @@
     "seq_type":"113",
     "continent":"South America",
     "country":"Chile",
-    "coordinates":"-35.675147,-71.542969",
+    "latitude":-35.675147,
+    "longitude":-71.542969,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":36,
@@ -4939,9 +5761,11 @@
     "seq_type":"113",
     "continent":"Australasia",
     "country":"New Zealand",
-    "coordinates":"-40.900557,174.885971",
+    "latitude":-40.900557,
+    "longitude":174.885971,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":37,
@@ -4951,9 +5775,11 @@
     "seq_type":"199",
     "continent":"Europe",
     "country":"Czech republic",
-    "coordinates":"49.817492,15.472962",
+    "latitude":49.817492,
+    "longitude":15.472962,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":37,
@@ -4963,9 +5789,11 @@
     "seq_type":"199",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":37,
@@ -4975,9 +5803,11 @@
     "seq_type":"199",
     "continent":"Europe",
     "country":"Greece",
-    "coordinates":"39.074208,21.824312",
+    "latitude":39.074208,
+    "longitude":21.824312,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":37,
@@ -4987,9 +5817,11 @@
     "seq_type":"199",
     "continent":"Europe",
     "country":"Hungary",
-    "coordinates":"47.162494,19.503304",
+    "latitude":47.162494,
+    "longitude":19.503304,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":37,
@@ -4999,9 +5831,11 @@
     "seq_type":"199",
     "continent":"Europe",
     "country":"Iceland",
-    "coordinates":"64.963051,-19.020835",
+    "latitude":64.963051,
+    "longitude":-19.020835,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":37,
@@ -5011,9 +5845,11 @@
     "seq_type":"199",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":37,
@@ -5023,9 +5859,11 @@
     "seq_type":"199",
     "continent":"Europe",
     "country":"Norway",
-    "coordinates":"60.472024,8.468946",
+    "latitude":60.472024,
+    "longitude":8.468946,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":37,
@@ -5035,9 +5873,11 @@
     "seq_type":"199",
     "continent":"Europe",
     "country":"Poland",
-    "coordinates":"51.919438,19.145136",
+    "latitude":51.919438,
+    "longitude":19.145136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":37,
@@ -5047,9 +5887,11 @@
     "seq_type":"199",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":37,
@@ -5059,9 +5901,11 @@
     "seq_type":"199",
     "continent":"Europe",
     "country":"Sweden",
-    "coordinates":"60.128161,18.643501",
+    "latitude":60.128161,
+    "longitude":18.643501,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":37,
@@ -5071,9 +5915,11 @@
     "seq_type":"199",
     "continent":"Europe",
     "country":"Switzerland",
-    "coordinates":"46.818188,8.227512",
+    "latitude":46.818188,
+    "longitude":8.227512,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":37,
@@ -5083,9 +5929,11 @@
     "seq_type":"199",
     "continent":"Europe",
     "country":"The Netherlands",
-    "coordinates":"52.132633,5.291266",
+    "latitude":52.132633,
+    "longitude":5.291266,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":37,
@@ -5095,9 +5943,11 @@
     "seq_type":"199",
     "continent":"Europe",
     "country":"UK",
-    "coordinates":"55.378051,-3.435973",
+    "latitude":55.378051,
+    "longitude":-3.435973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":37,
@@ -5107,9 +5957,11 @@
     "seq_type":"199",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":37,
@@ -5119,9 +5971,11 @@
     "seq_type":"",
     "continent":"South America",
     "country":"Venzuela",
-    "coordinates":"6.42375,-66.58973",
+    "latitude":6.42375,
+    "longitude":-66.58973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":37,
@@ -5131,9 +5985,11 @@
     "seq_type":"199",
     "continent":"Asia",
     "country":"Japan",
-    "coordinates":"36.204824,138.252924",
+    "latitude":36.204824,
+    "longitude":138.252924,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":37,
@@ -5143,9 +5999,11 @@
     "seq_type":"199",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":38,
@@ -5155,9 +6013,11 @@
     "seq_type":"205",
     "continent":"Europe",
     "country":"Czech Republic",
-    "coordinates":"49.817492,15.472962",
+    "latitude":49.817492,
+    "longitude":15.472962,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":38,
@@ -5167,9 +6027,11 @@
     "seq_type":"205",
     "continent":"Europe",
     "country":"Denmark",
-    "coordinates":"56.26392,9.501785",
+    "latitude":56.26392,
+    "longitude":9.501785,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":38,
@@ -5179,9 +6041,11 @@
     "seq_type":"205",
     "continent":"Europe",
     "country":"Finland",
-    "coordinates":"61.92411,25.748151",
+    "latitude":61.92411,
+    "longitude":25.748151,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":38,
@@ -5191,9 +6055,11 @@
     "seq_type":"205",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":38,
@@ -5203,9 +6069,11 @@
     "seq_type":"205",
     "continent":"Europe",
     "country":"Iceland",
-    "coordinates":"64.963051,-19.020835",
+    "latitude":64.963051,
+    "longitude":-19.020835,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":38,
@@ -5215,9 +6083,11 @@
     "seq_type":"205",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":38,
@@ -5227,9 +6097,11 @@
     "seq_type":"205",
     "continent":"Europe",
     "country":"Norway",
-    "coordinates":"60.472024,8.468946",
+    "latitude":60.472024,
+    "longitude":8.468946,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":38,
@@ -5239,9 +6111,11 @@
     "seq_type":"205",
     "continent":"Europe",
     "country":"Poland",
-    "coordinates":"51.919438,19.145136",
+    "latitude":51.919438,
+    "longitude":19.145136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":38,
@@ -5251,9 +6125,11 @@
     "seq_type":"205",
     "continent":"Europe",
     "country":"Sweden",
-    "coordinates":"60.128161,18.643501",
+    "latitude":60.128161,
+    "longitude":18.643501,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":38,
@@ -5263,9 +6139,11 @@
     "seq_type":"205",
     "continent":"Europe",
     "country":"Switzerland",
-    "coordinates":"46.818188,8.227512",
+    "latitude":46.818188,
+    "longitude":8.227512,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":38,
@@ -5275,9 +6153,11 @@
     "seq_type":"205",
     "continent":"Europe",
     "country":"UK",
-    "coordinates":"55.378051,-3.435973",
+    "latitude":55.378051,
+    "longitude":-3.435973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":38,
@@ -5287,9 +6167,11 @@
     "seq_type":"205",
     "continent":"Australasia",
     "country":"Australia",
-    "coordinates":"-25.274398,133.775136",
+    "latitude":-25.274398,
+    "longitude":133.775136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":38,
@@ -5299,9 +6181,11 @@
     "seq_type":"205",
     "continent":"North America",
     "country":"Canada",
-    "coordinates":"56.130366,-106.346771",
+    "latitude":56.130366,
+    "longitude":-106.346771,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":38,
@@ -5311,9 +6195,11 @@
     "seq_type":"205",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":38,
@@ -5323,9 +6209,11 @@
     "seq_type":"205",
     "continent":"South America",
     "country":"Peru",
-    "coordinates":"-9.189967,-75.015152",
+    "latitude":-9.189967,
+    "longitude":-75.015152,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":38,
@@ -5335,9 +6223,11 @@
     "seq_type":"205",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5347,9 +6237,11 @@
     "seq_type":"191",
     "continent":"Europe",
     "country":"Czech Republic",
-    "coordinates":"49.817492,15.472962",
+    "latitude":49.817492,
+    "longitude":15.472962,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5359,9 +6251,11 @@
     "seq_type":"191",
     "continent":"Europe",
     "country":"Denmark",
-    "coordinates":"56.26392,9.501785",
+    "latitude":56.26392,
+    "longitude":9.501785,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5371,9 +6265,11 @@
     "seq_type":"191",
     "continent":"Europe",
     "country":"Finland",
-    "coordinates":"61.92411,25.748151",
+    "latitude":61.92411,
+    "longitude":25.748151,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5383,9 +6279,11 @@
     "seq_type":"191",
     "continent":"Europe",
     "country":"France",
-    "coordinates":"46.227638,2.213749",
+    "latitude":46.227638,
+    "longitude":2.213749,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5395,9 +6293,11 @@
     "seq_type":"191",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5407,9 +6307,11 @@
     "seq_type":"191",
     "continent":"Europe",
     "country":"Hungary",
-    "coordinates":"47.162494,19.503304",
+    "latitude":47.162494,
+    "longitude":19.503304,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5419,9 +6321,11 @@
     "seq_type":"191",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5431,9 +6335,11 @@
     "seq_type":"191",
     "continent":"Europe",
     "country":"Norway",
-    "coordinates":"60.472024,8.468946",
+    "latitude":60.472024,
+    "longitude":8.468946,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5443,9 +6349,11 @@
     "seq_type":"191",
     "continent":"Europe",
     "country":"Poland",
-    "coordinates":"51.919438,19.145136",
+    "latitude":51.919438,
+    "longitude":19.145136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5455,9 +6363,11 @@
     "seq_type":"191",
     "continent":"Europe",
     "country":"Russia",
-    "coordinates":"61.52401,105.318756",
+    "latitude":61.52401,
+    "longitude":105.318756,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5467,9 +6377,11 @@
     "seq_type":"191",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5479,9 +6391,11 @@
     "seq_type":"191",
     "continent":"Europe",
     "country":"Sweden",
-    "coordinates":"60.128161,18.643501",
+    "latitude":60.128161,
+    "longitude":18.643501,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5491,9 +6405,11 @@
     "seq_type":"191",
     "continent":"Europe",
     "country":"Switzerland",
-    "coordinates":"46.818188,8.227512",
+    "latitude":46.818188,
+    "longitude":8.227512,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5503,9 +6419,11 @@
     "seq_type":"191",
     "continent":"Europe",
     "country":"The Netherlands",
-    "coordinates":"52.132633,5.291266",
+    "latitude":52.132633,
+    "longitude":5.291266,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5515,9 +6433,11 @@
     "seq_type":"191",
     "continent":"Europe",
     "country":"Turkey",
-    "coordinates":"38.963745,35.243322",
+    "latitude":38.963745,
+    "longitude":35.243322,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5527,9 +6447,11 @@
     "seq_type":"191",
     "continent":"Europe",
     "country":"UK",
-    "coordinates":"55.378051,-3.435973",
+    "latitude":55.378051,
+    "longitude":-3.435973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5539,9 +6461,11 @@
     "seq_type":"191",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5551,9 +6475,11 @@
     "seq_type":"191",
     "continent":"South America",
     "country":"Brazil",
-    "coordinates":"-14.235004,-51.92528",
+    "latitude":-14.235004,
+    "longitude":-51.92528,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5563,9 +6489,11 @@
     "seq_type":"191",
     "continent":"South America",
     "country":"Chile",
-    "coordinates":"-35.675147,-71.542969",
+    "latitude":-35.675147,
+    "longitude":-71.542969,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5575,9 +6503,11 @@
     "seq_type":"191",
     "continent":"South America",
     "country":"Uruguay",
-    "coordinates":"-32.522779,-55.765835",
+    "latitude":-32.522779,
+    "longitude":-55.765835,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5587,9 +6517,11 @@
     "seq_type":"191",
     "continent":"Asia",
     "country":"Japan",
-    "coordinates":"36.204824,138.252924",
+    "latitude":36.204824,
+    "longitude":138.252924,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":39,
@@ -5599,9 +6531,11 @@
     "seq_type":"191",
     "continent":"Africa",
     "country":"South Africa",
-    "coordinates":"-30.559482,22.937506",
+    "latitude":-30.559482,
+    "longitude":22.937506,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":40,
@@ -5611,9 +6545,11 @@
     "seq_type":"304",
     "continent":"Europe",
     "country":"France",
-    "coordinates":"46.227638,2.213749",
+    "latitude":46.227638,
+    "longitude":2.213749,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":40,
@@ -5623,9 +6559,11 @@
     "seq_type":"304",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":40,
@@ -5635,9 +6573,11 @@
     "seq_type":"304",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":40,
@@ -5647,9 +6587,11 @@
     "seq_type":"304",
     "continent":"Europe",
     "country":"Norway",
-    "coordinates":"60.472024,8.468946",
+    "latitude":60.472024,
+    "longitude":8.468946,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":40,
@@ -5659,9 +6601,11 @@
     "seq_type":"304",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":40,
@@ -5671,9 +6615,11 @@
     "seq_type":"304",
     "continent":"Europe",
     "country":"Sweden",
-    "coordinates":"60.128161,18.643501",
+    "latitude":60.128161,
+    "longitude":18.643501,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":40,
@@ -5683,9 +6629,11 @@
     "seq_type":"304",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":40,
@@ -5695,9 +6643,11 @@
     "seq_type":"304",
     "continent":"North America",
     "country":"Canada",
-    "coordinates":"56.130366,-106.346771",
+    "latitude":56.130366,
+    "longitude":-106.346771,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":40,
@@ -5707,9 +6657,11 @@
     "seq_type":"304",
     "continent":"South America",
     "country":"Colombia",
-    "coordinates":"4.570868,-74.297333",
+    "latitude":4.570868,
+    "longitude":-74.297333,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":40,
@@ -5719,9 +6671,11 @@
     "seq_type":"304",
     "continent":"Australasia",
     "country":"Australia",
-    "coordinates":"-25.274398,133.775136",
+    "latitude":-25.274398,
+    "longitude":133.775136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":41,
@@ -5731,9 +6685,11 @@
     "seq_type":"327",
     "continent":"Europe",
     "country":"UK",
-    "coordinates":"55.378051,-3.435973",
+    "latitude":55.378051,
+    "longitude":-3.435973,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":41,
@@ -5743,9 +6699,11 @@
     "seq_type":"327",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":41,
@@ -5755,9 +6713,11 @@
     "seq_type":"327",
     "continent":"Europe",
     "country":"Greece",
-    "coordinates":"39.074208,21.824312",
+    "latitude":39.074208,
+    "longitude":21.824312,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":41,
@@ -5767,9 +6727,11 @@
     "seq_type":"327",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":41,
@@ -5779,9 +6741,11 @@
     "seq_type":"327",
     "continent":"Europe",
     "country":"Portugal",
-    "coordinates":"39.399872,-8.224454",
+    "latitude":39.399872,
+    "longitude":-8.224454,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":41,
@@ -5791,9 +6755,11 @@
     "seq_type":"327",
     "continent":"Asia",
     "country":"Kingdom of Saudi Arabia",
-    "coordinates":"23.885942,45.079162",
+    "latitude":23.885942,
+    "longitude":45.079162,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":41,
@@ -5803,9 +6769,11 @@
     "seq_type":"327",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":41,
@@ -5815,9 +6783,11 @@
     "seq_type":"327",
     "continent":"South America",
     "country":"Brazil",
-    "coordinates":"-14.235004,-51.92528",
+    "latitude":-14.235004,
+    "longitude":-51.92528,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":42,
@@ -5827,9 +6797,11 @@
     "seq_type":"344",
     "continent":"Europe",
     "country":"Norway",
-    "coordinates":"60.472024,8.468946",
+    "latitude":60.472024,
+    "longitude":8.468946,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":42,
@@ -5839,9 +6811,11 @@
     "seq_type":"344",
     "continent":"Europe",
     "country":"France",
-    "coordinates":"46.227638,2.213749",
+    "latitude":46.227638,
+    "longitude":2.213749,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":42,
@@ -5851,9 +6825,11 @@
     "seq_type":"344",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":42,
@@ -5863,9 +6839,11 @@
     "seq_type":"344",
     "continent":"Europe",
     "country":"Greece",
-    "coordinates":"39.074208,21.824312",
+    "latitude":39.074208,
+    "longitude":21.824312,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":42,
@@ -5875,9 +6853,11 @@
     "seq_type":"344",
     "continent":"Europe",
     "country":"Italy",
-    "coordinates":"41.87194,12.56738",
+    "latitude":41.87194,
+    "longitude":12.56738,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":42,
@@ -5887,9 +6867,11 @@
     "seq_type":"344",
     "continent":"Europe",
     "country":"Norway",
-    "coordinates":"60.472024,8.468946",
+    "latitude":60.472024,
+    "longitude":8.468946,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":42,
@@ -5899,9 +6881,11 @@
     "seq_type":"344",
     "continent":"Europe",
     "country":"Poland",
-    "coordinates":"51.919438,19.145136",
+    "latitude":51.919438,
+    "longitude":19.145136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":42,
@@ -5911,9 +6895,11 @@
     "seq_type":"344",
     "continent":"Europe",
     "country":"Portugal",
-    "coordinates":"39.399872,-8.224454",
+    "latitude":39.399872,
+    "longitude":-8.224454,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":42,
@@ -5923,9 +6909,11 @@
     "seq_type":"344",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":42,
@@ -5935,9 +6923,11 @@
     "seq_type":"344",
     "continent":"Europe",
     "country":"Switzerland",
-    "coordinates":"46.818188,8.227512",
+    "latitude":46.818188,
+    "longitude":8.227512,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":42,
@@ -5947,9 +6937,11 @@
     "seq_type":"344",
     "continent":"Europe",
     "country":"The Netherlands",
-    "coordinates":"52.132633,5.291266",
+    "latitude":52.132633,
+    "longitude":5.291266,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":42,
@@ -5959,9 +6951,11 @@
     "seq_type":"344",
     "continent":"Africa",
     "country":"Nigeria",
-    "coordinates":"9.081999,8.675277",
+    "latitude":9.081999,
+    "longitude":8.675277,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":43,
@@ -5971,9 +6965,11 @@
     "seq_type":"448",
     "continent":"North America",
     "country":"US",
-    "coordinates":"37.09024,-95.712891",
+    "latitude":37.09024,
+    "longitude":-95.712891,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":43,
@@ -5983,9 +6979,11 @@
     "seq_type":"448",
     "continent":"Australasia",
     "country":"Australia",
-    "coordinates":"-25.274398,133.775136",
+    "latitude":-25.274398,
+    "longitude":133.775136,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":43,
@@ -5995,9 +6993,11 @@
     "seq_type":"448",
     "continent":"Asia",
     "country":"China",
-    "coordinates":"35.86166,104.195397",
+    "latitude":35.86166,
+    "longitude":104.195397,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":43,
@@ -6007,9 +7007,11 @@
     "seq_type":"448",
     "continent":"Asia",
     "country":"Thailand",
-    "coordinates":"15.870032,100.992541",
+    "latitude":15.870032,
+    "longitude":100.992541,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":43,
@@ -6019,9 +7021,11 @@
     "seq_type":"448",
     "continent":"Europe",
     "country":"England",
-    "coordinates":"52.3555177,-1.1743197",
+    "latitude":52.3555177,
+    "longitude":-1.1743197,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":43,
@@ -6031,9 +7035,11 @@
     "seq_type":"448",
     "continent":"Europe",
     "country":"Germany",
-    "coordinates":"51.165691,10.451526",
+    "latitude":51.165691,
+    "longitude":10.451526,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":43,
@@ -6043,9 +7049,11 @@
     "seq_type":"448",
     "continent":"Europe",
     "country":"Greece",
-    "coordinates":"39.074208,21.824312",
+    "latitude":39.074208,
+    "longitude":21.824312,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":43,
@@ -6055,9 +7063,11 @@
     "seq_type":"448",
     "continent":"Europe",
     "country":"Portugal",
-    "coordinates":"39.399872,-8.224454",
+    "latitude":39.399872,
+    "longitude":-8.224454,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":43,
@@ -6067,9 +7077,11 @@
     "seq_type":"448",
     "continent":"Europe",
     "country":"Spain",
-    "coordinates":"40.4167515,-3.7038639",
+    "latitude":40.4167515,
+    "longitude":-3.7038639,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":43,
@@ -6079,9 +7091,11 @@
     "seq_type":"448",
     "continent":"Europe",
     "country":"Switzerland",
-    "coordinates":"46.818188,8.227512",
+    "latitude":46.818188,
+    "longitude":8.227512,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   },
   {
     "pmen_designation":43,
@@ -6091,8 +7105,10 @@
     "seq_type":"448",
     "continent":"Africa",
     "country":"The Gambia",
-    "coordinates":"13.443182,-15.310139",
+    "latitude":13.443182,
+    "longitude":-15.310139,
     "reference":"mlst",
-    "atcc_number":""
+    "atcc_number":"",
+    "comments":""
   }
 ]
