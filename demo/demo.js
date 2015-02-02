@@ -218,7 +218,7 @@ var getMarkers = function(map, data, _type) {
 		var marker = new StyledMarker({
 			styleIcon: new StyledIcon(StyledIconTypes.BUBBLE,{
 				color: colormap[_type][data[i][_type]],
-				text: (data[i][_type] != "")?data[i][_type]:"N/A"
+				text: (data[i][_type] != "")?data[i][_type]:"N/A",
 			}),
 			position: latlng,
 			map: map
@@ -227,21 +227,15 @@ var getMarkers = function(map, data, _type) {
 		// var html = "<div style='width: 120px; text-align: left; color: grey;'><b>"+ data[i].country + " : <span style='color:brown;'>" + count + "</span></b></div>";
 
 		var html = "<div id='infowindow_" + i + "'' style='max-width:400px;font-weight:normal;'>";
-		html += "<h3>" + data[i].country + "</h3><table>";
-		if(data[i].parent_clone != "")
-			html += "<tr><td><span style='color: #666;'>Parent Clone: </span></td><td><span style='color:brown;'>" + data[i].parent_clone + "</span></td></tr>";
-		if(data[i].serotype != "")
-			html += "<tr><td><span style='color: #666;'>Serotype: </span></td><td><span style='color:brown;'>" + data[i].serotype + "</span></td></tr>";
-		if(data[i].seq_type != "")
-			html += "<tr><td><span style='color: #666;'>Sequence Type: </span></td><td><span style='color:brown;'>" + data[i].seq_type + "</span></td></tr>";
-		if(data[i].date_first_isolated != "" && !isNaN(data[i].date_first_isolated))
-			html += "<tr><td><span style='color: #666;'>Date first isolated: </span></td><td><span style='color:brown;'>" + data[i].date_first_isolated + "</span></td></tr>";
-		if(data[i].continent != "")
-			html += "<tr><td><span style='color: #666;'>Continent: </span></td><td><span style='color:brown;'>" + data[i].continent + "</span></td></tr>";
-		if(data[i].reference != "")
-			html += "<tr><td><span style='color: #666;'>Reference: </span></td><td><span style='color:brown;'>" + data[i].reference + "</span></td></tr>";
-		if(data[i].atcc_number != "")
-			html += "<tr><td><span style='color: #666;'>ATCC Number: </span></td><td><span style='color:brown;'>" + data[i].atcc_number + "</span></td></tr>";
+		html += "<h3 style='color: #007fc5;letter-spacing: 1px;'>" + data[i].country + "</h3><table>";
+		var head = '';
+		for (var key in data[i]) {
+			if(data[i][key] != "" && key != "latitude" && key != "longitude") {
+				head = key.capitalize();
+				head = head.replace(/_/g,' ');
+				html += "<tr><td width=\"120px\"><span style='color: #666;'>"+ head +": </span></td><td><span style='color:#333;'>" + data[i][key] + "</span></td></tr>";
+			}
+		}
 
 		html += "</table></div>";
 
@@ -263,6 +257,10 @@ var getMarkers = function(map, data, _type) {
 		all_markers.push(marker);
 	}
 	return all_markers;
+}
+
+String.prototype.capitalize = function() {
+    return this.charAt(0).toUpperCase() + this.slice(1);
 }
 
 // Sets the map on all markers in the array.
